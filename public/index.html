@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>The Space Database</title>
+</head>
+<body>
+
+    <div class="page">
+        <div class="sidebar">
+            <div class="sidebarTitle">
+                <h2>Usagi is King</h2>
+            </div>
+            <nav class="navMenu">
+                <ul>
+                    <li><a href="#" class="navLink active" data-page="i">Insert</a></li>
+                    <li><a href="#" class="navLink" data-page="d">Delete</a></li>
+                    <li><a href="#" class="navLink" data-page="u">Update</a></li>
+                    <li><a href="#" class="navLink" data-page="r">Read</a></li>
+
+                </ul>
+            </nav>
+        </div>
+
+
+        <div class="mainPage">
+            <h1>Database Connection Status: 
+                <span id="dbStatus"> </span>
+                <img id="loadingGif" class="loading-gif" src="loading_100px.gif" alt="Loading...">
+            </h1>
+
+            <!--INSERT PAGE-->
+
+            <div class="content-page active" id="insertPage">
+                <h2>Insert Data</h2>
+                <div class="page-container">
+                    <h3>Choose the table:</h3>
+                    <select id="insertDropDown" class="dropDown">
+                        <option value="">SELECT IT 😈</option>
+                        <option value="universe">Universe</option>
+                        <option value="galaxy">Galaxy</option>
+                    </select>
+                </div>
+
+                <div id="universeInsertOption" class="dropDownOption">
+                    <h2> Insert Values into Universe </h2>
+                    <div class="container">
+                        <div class="form-container">
+                        <form id="insertUniverse">
+                            Name: <input type="text" id="insertName" placeholder="Enter Name" required> <br><br>
+                            Age: <input type="number" id="insertAge" placeholder="Enter Age" required> <br><br>
+                            Expansionary Rate: <input type="number" id="insertRate" placeholder="Enter Rate" required> <br><br>
+            
+                            <button type="submit"> insert </button> <br>
+                        </form>
+                        <div id="insertResultMsg"></div>
+                        </div>
+                        <div>
+                            <table id="universe" border="1">
+                                <thead>
+                                    <tr>
+                                        <!--Table head, need to be adjusted accordingly to align with your own.-->
+                                        <th>Name</th>
+                                        <th>Age</th>
+                                        <th>Rate</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="galaxyInsertOption" class="dropDownOption">
+                    <h2> Insert Values into Galaxy </h2>
+            
+                    <div class="container">
+                        <div class="form-container">
+                        <form id="insertGalaxy">
+                            Name: <input type="text" id="insertGalacticName" placeholder="Enter Name" required> <br><br>
+                            Constellation: <input type="text" id="insertConstellation" placeholder="Enter Constellation" required> <br><br>
+                            Type: <input type="text" id="insertGalacticType" placeholder="Enter Type" required> <br><br>
+                            Radius: <input type="number" id="insertGalacticRadius" placeholder="Enter Radius" required> <br><br>
+                            Star Count: <input type="text" id="insertGalacticCount" placeholder="Enter Starcount" required> <br><br> <!-- Will need to be a dropdown -->
+                            Central Object: <input type="text" id="insertGalacticObject" placeholder="Enter Age" required> <br><br> <!-- Will need to be a dropdown -->
+                            Distance From Earth: <input type="number" id="insertGalacticDistance" placeholder="Enter Rate" required> <br><br>
+                            Universe:     
+                            <select id="insertGalacticUniverse", class="dropDown">
+                                <option value="">Select a Universe 😈</option>
+                            </select>
+                            <!--<input type="text" id="insertGalacticUniverse" placeholder="Enter Universe" required> <br><br> <!-- Will need to be a dropdown -->
+            
+                            <button type="submit"> insert </button> <br>
+                        </form>
+                        <div id="insertResultMsg"></div>
+                        </div>
+                        <div>
+                            <table id="galaxy" border="1">
+                                <thead>
+                                    <tr>
+                                        <!--Table head, need to be adjusted accordingly to align with your own.-->
+                                        <th>Name</th>
+                                        <th>Universe</th> 
+                                        <th>Constellation</th>
+                                        <th>Type</th>
+                                        <th>Radius</th>
+                                        <th>Star Count</th>
+                                        <th>Central Object</th>
+                                        <th>Distance from Earth</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+            
+                </div>
+
+            </div>
+
+
+
+            <div class="content-page" id="deletePage">
+                <h2>Delete Data</h2>
+                <div class="page-container">
+                    <h3>Choose the table:</h3>
+                    <select id="deleteDropDown" class="dropDown">
+                        <option value="">SELECT IT 😈</option>
+                        <option value="star">Star</option>
+                        
+                    </select>
+                </div>
+
+
+
+                <!--PUT THE DELETE STUFF HERE-->
+
+                <div id="starDeleteOption" class="dropDownOption">
+                    <h2> Delete Values From Star </h2>
+                    <div class="container">
+                        <div class="form-container">
+                        <form id="deleteStar">
+                           Star:
+                            <select id="deleteStarDropDown", class="dropDown">
+                                <option value="">Delete a Star</option>
+                            </select>
+            
+                            <button type="submit"> Delete </button> <br>
+                        </form>
+                        <div id="deleteResultMsg"></div>
+                        </div>
+                        <div>
+                            <table id="star" border="1">
+                                <thead>
+                                    <tr>
+                                        <!--Table head, need to be adjusted accordingly to align with your own.-->
+                                        <th>SolarName </th>
+                                        <th>SpectralType</th>
+                                        <th>Radius</th>
+                                        <th>ElementalComposition</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="content-page" id="updatePage">
+                <h2>Update Data</h2>
+                <div class="page-container">
+                    <h3>Choose the table:</h3>
+                    <select id="updateDropDown" class="dropDown">
+                        <option value="">SELECT IT 😈</option>
+                        <option value="universe">Universe</option>
+                        <option value="galaxy">Galaxy</option>
+                    </select>
+                </div>
+
+                <!--PUT THE UPDATE STUFF HERE-->
+
+            </div>
+
+
+            <div class="content-page" id="readPage">
+                <h2>Read Data</h2>
+                <div class="page-container">
+                    <h3>Choose the table:</h3>
+                    <select id="readDropDown" class="dropDown">
+                        <option value="">SELECT IT 😈</option>
+                        <option value="universe">Universe</option>
+                        <option value="galaxy">Galaxy</option>
+                    </select>
+                </div>
+
+                <!--PUT THE READ STUFF HERE-->
+
+            </div>
+
+
+            <h2>Reset Universe</h2>
+            <p>If you wish to reset the table press on the reset button. If this is the first time you're running this page, you MUST use reset</p>
+            <button id="resetUniverse"> Universe </button> <button id="resetAstronomical"> Astronomical </button> <button id="resetGalaxy"> Galaxy </button> <br>
+            <!-- A placeholder to display messages related to the reset operation. -->
+            <div id="resetResultMsg"></div>
+
+            <h2>Count the Tuples in Universe</h2>
+            <button id="countUniverse"> count </button> <br><br>
+            <!-- A placeholder to display the count result. -->
+            <div id="countResultMsg"></div> <br>
+
+
+        </div>
+
+
+
+
+
+
+    </div>
+
+
+    <!-- ===================================================================================== -->
+    <!-- External JavaScript file that contains the functionality/logic for the operations above. -->
+    <script src="scripts.js"></script>
+    <script src="dropDowns.js"></script>
+    <script src="menu.js"></script>
+</body>
+</html>

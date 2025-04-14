@@ -1,0 +1,2043 @@
+Phylum,Planet Name,Biome,Number of Alleles
+Porifera,11 Com b,Temperate,1296757646
+Cnidaria,11 Com b,Boreal,1419603659
+Platyhelminthes,11 Com b,Scarlet,1374853278
+Nematoda,11 Com b,Desert,1737733068
+Annelida,11 Com b,Swamp,1487238096
+Mollusca,11 Com b,Marshland,42132365
+Arthropoda,11 Com b,Tundra,203545244
+Echinodermata,11 Com b,Tropical,1548212428
+Porifera,11 Com b,Tropical,1377492079
+Cnidaria,11 Com b,Tropical,140730572
+Platyhelminthes,11 Com b,Tropical,633517947
+Nematoda,11 Com b,Tropical,1035659234
+Annelida,11 Com b,Tropical,1319138904
+Mollusca,11 Com b,Tropical,579915921
+Arthropoda,11 Com b,Tropical,179228453
+Chordata,11 UMi b,Alpine,259107843
+Bryophyta,11 UMi b,Nemoral,1256331284
+Pteridophyta,11 UMi b,Temperate,946753716
+Angiospermae,11 UMi b,Boreal,928110423
+Porifera,11 UMi b,Scarlet,704638665
+Cnidaria,11 UMi b,Desert,321437767
+Platyhelminthes,11 UMi b,Swamp,729002163
+Nematoda,11 UMi b,Marshland,1263964767
+Annelida,14 And b,Tundra,270405966
+Mollusca,14 And b,Tropical,1651602564
+Arthropoda,14 And b,Alpine,1647200842
+Echinodermata,14 And b,Nemoral,2059059155
+Chordata,14 And b,Temperate,803594861
+Bryophyta,14 And b,Boreal,44828403
+Pteridophyta,14 And b,Scarlet,260092505
+Angiospermae,14 And b,Desert,1624735490
+Porifera,14 Her b,Swamp,169874630
+Cnidaria,14 Her b,Marshland,285420660
+Platyhelminthes,14 Her b,Tundra,1545874265
+Nematoda,14 Her b,Tropical,1103850255
+Annelida,14 Her b,Alpine,716249858
+Mollusca,14 Her b,Nemoral,1105935957
+Arthropoda,14 Her b,Temperate,1534528773
+Echinodermata,14 Her b,Boreal,2141568748
+Chordata,16 Cyg B b,Scarlet,1670507213
+Bryophyta,16 Cyg B b,Desert,362707094
+Pteridophyta,16 Cyg B b,Swamp,252625116
+Angiospermae,16 Cyg B b,Marshland,1198771118
+Porifera,16 Cyg B b,Tundra,1003543460
+Cnidaria,16 Cyg B b,Tropical,1016241613
+Platyhelminthes,16 Cyg B b,Alpine,286956196
+Nematoda,16 Cyg B b,Nemoral,1439671268
+Annelida,17 Sco b,Temperate,1360515905
+Mollusca,17 Sco b,Boreal,2082181245
+Arthropoda,17 Sco b,Scarlet,1776097415
+Echinodermata,17 Sco b,Desert,1556380043
+Chordata,17 Sco b,Swamp,1261448068
+Bryophyta,17 Sco b,Marshland,1973923454
+Pteridophyta,17 Sco b,Tundra,1431625833
+Angiospermae,17 Sco b,Tropical,1763966991
+Porifera,18 Del b,Alpine,46009194
+Cnidaria,18 Del b,Nemoral,1561867938
+Platyhelminthes,18 Del b,Temperate,503162909
+Nematoda,18 Del b,Boreal,422039953
+Annelida,18 Del b,Scarlet,408811529
+Mollusca,18 Del b,Desert,1759573151
+Arthropoda,18 Del b,Swamp,538834798
+Echinodermata,18 Del b,Marshland,1030429846
+Chordata,1RXS J160929.1-210524 b,Tundra,992815730
+Bryophyta,1RXS J160929.1-210524 b,Tropical,1215301784
+Pteridophyta,1RXS J160929.1-210524 b,Alpine,213589860
+Angiospermae,1RXS J160929.1-210524 b,Nemoral,1950211237
+Porifera,1RXS J160929.1-210524 b,Temperate,666581426
+Cnidaria,1RXS J160929.1-210524 b,Boreal,385210972
+Platyhelminthes,1RXS J160929.1-210524 b,Scarlet,1248380133
+Nematoda,1RXS J160929.1-210524 b,Desert,143940811
+Annelida,24 Boo b,Swamp,509620625
+Mollusca,24 Boo b,Marshland,629886916
+Arthropoda,24 Boo b,Tundra,668484310
+Echinodermata,24 Boo b,Tropical,2107256859
+Chordata,24 Boo b,Alpine,1844104172
+Bryophyta,24 Boo b,Nemoral,860395486
+Pteridophyta,24 Boo b,Temperate,899278296
+Angiospermae,24 Boo b,Boreal,1908189960
+Porifera,24 Sex b,Scarlet,1775080000
+Cnidaria,24 Sex b,Desert,1739366487
+Platyhelminthes,24 Sex b,Swamp,120501312
+Nematoda,24 Sex b,Marshland,401895019
+Annelida,24 Sex b,Tundra,1110562699
+Mollusca,24 Sex b,Tropical,2129160512
+Arthropoda,24 Sex b,Alpine,89187989
+Echinodermata,24 Sex b,Nemoral,9176782
+Chordata,24 Sex c,Temperate,1816108100
+Bryophyta,24 Sex c,Boreal,262896614
+Pteridophyta,24 Sex c,Scarlet,893918318
+Angiospermae,24 Sex c,Desert,1630803226
+Porifera,24 Sex c,Swamp,969897012
+Cnidaria,24 Sex c,Marshland,491612374
+Platyhelminthes,24 Sex c,Tundra,1605329238
+Nematoda,24 Sex c,Tropical,1158258598
+Annelida,2M0437 b,Alpine,998407455
+Mollusca,2M0437 b,Nemoral,1970332861
+Arthropoda,2M0437 b,Temperate,1681494136
+Echinodermata,2MASS J01033563-5515561 AB b,Boreal,763557541
+Chordata,2MASS J01033563-5515561 AB b,Scarlet,1530053646
+Bryophyta,2MASS J01033563-5515561 AB b,Desert,1509592165
+Pteridophyta,2MASS J01225093-2439505 b,Swamp,1156684593
+Angiospermae,2MASS J01225093-2439505 b,Marshland,937907657
+Porifera,2MASS J01225093-2439505 b,Tundra,2034721761
+Cnidaria,2MASS J02192210-3925225 b,Tropical,29970245
+Platyhelminthes,2MASS J02192210-3925225 b,Alpine,1037348977
+Nematoda,2MASS J02192210-3925225 b,Nemoral,1309111853
+Annelida,2MASS J0249-0557 c,Temperate,935920758
+Mollusca,2MASS J0249-0557 c,Boreal,1086474612
+Arthropoda,2MASS J0249-0557 c,Scarlet,675548151
+Echinodermata,2MASS J03590986+2009361 b,Desert,1317850585
+Chordata,2MASS J03590986+2009361 b,Swamp,1044582083
+Bryophyta,2MASS J03590986+2009361 b,Marshland,294605977
+Pteridophyta,2MASS J04414489+2301513 b,Tundra,2146710694
+Angiospermae,2MASS J04414489+2301513 b,Tropical,1027647216
+Porifera,2MASS J04414489+2301513 b,Alpine,571023756
+Cnidaria,2MASS J11011926-7732383 b,Nemoral,1269661452
+Platyhelminthes,2MASS J11011926-7732383 b,Temperate,10897770
+Nematoda,2MASS J11011926-7732383 b,Boreal,500892225
+Annelida,2MASS J11550485-7919108 b,Scarlet,84541602
+Mollusca,2MASS J11550485-7919108 b,Desert,2036878153
+Arthropoda,2MASS J11550485-7919108 b,Swamp,1762992699
+Echinodermata,2MASS J12073346-3932539 b,Marshland,1741943383
+Chordata,2MASS J12073346-3932539 b,Tundra,1340247664
+Bryophyta,2MASS J12073346-3932539 b,Tropical,592481556
+Pteridophyta,2MASS J19383260+4603591 b,Alpine,618868059
+Angiospermae,2MASS J19383260+4603591 b,Nemoral,513356827
+Porifera,2MASS J19383260+4603591 b,Temperate,1196170963
+Cnidaria,2MASS J21252752-8138278 b,Boreal,529893429
+Platyhelminthes,2MASS J21252752-8138278 b,Scarlet,1264907733
+Nematoda,2MASS J21252752-8138278 b,Desert,309557479
+Annelida,2MASS J22362452+4751425 b,Swamp,762354995
+Mollusca,2MASS J22362452+4751425 b,Marshland,1769845301
+Arthropoda,2MASS J22362452+4751425 b,Tundra,666404127
+Echinodermata,30 Ari B b,Tropical,615333484
+Chordata,30 Ari B b,Alpine,272706856
+Bryophyta,30 Ari B b,Nemoral,575737886
+Pteridophyta,4 UMa b,Temperate,1637759595
+Angiospermae,4 UMa b,Boreal,1565480031
+Porifera,4 UMa b,Scarlet,7716388
+Cnidaria,42 Dra b,Desert,1889948189
+Platyhelminthes,42 Dra b,Swamp,638731613
+Nematoda,42 Dra b,Marshland,1264877287
+Annelida,47 UMa b,Tundra,1687433574
+Mollusca,47 UMa b,Tropical,1386424256
+Arthropoda,47 UMa b,Alpine,1183017627
+Echinodermata,47 UMa c,Nemoral,2080093535
+Chordata,47 UMa c,Temperate,426929681
+Bryophyta,47 UMa c,Boreal,1776183336
+Pteridophyta,47 UMa d,Scarlet,1065936765
+Angiospermae,47 UMa d,Desert,228749923
+Porifera,47 UMa d,Swamp,772105567
+Cnidaria,51 Eri b,Marshland,1261435000
+Platyhelminthes,51 Eri b,Tundra,1658623142
+Nematoda,51 Eri b,Tropical,1884895852
+Annelida,51 Peg b,Alpine,1418971712
+Mollusca,51 Peg b,Nemoral,2084094121
+Arthropoda,51 Peg b,Temperate,2133052504
+Echinodermata,55 Cnc b,Boreal,1229818779
+Chordata,55 Cnc b,Scarlet,675051410
+Bryophyta,55 Cnc b,Desert,1364833907
+Pteridophyta,55 Cnc c,Swamp,766627590
+Angiospermae,55 Cnc c,Marshland,166069933
+Porifera,55 Cnc c,Tundra,364835152
+Cnidaria,55 Cnc d,Tropical,1706363155
+Platyhelminthes,55 Cnc d,Alpine,2041548851
+Nematoda,55 Cnc d,Nemoral,2143088556
+Annelida,55 Cnc e,Temperate,1868994951
+Mollusca,55 Cnc e,Boreal,241943494
+Arthropoda,55 Cnc e,Scarlet,906430371
+Echinodermata,55 Cnc f,Desert,445379737
+Chordata,55 Cnc f,Swamp,606718569
+Bryophyta,55 Cnc f,Marshland,261632861
+Pteridophyta,6 Lyn b,Tundra,377152407
+Angiospermae,6 Lyn b,Tropical,1611437374
+Porifera,6 Lyn b,Alpine,1680906061
+Cnidaria,61 Vir b,Nemoral,657005238
+Platyhelminthes,61 Vir b,Temperate,1247587000
+Nematoda,61 Vir b,Boreal,1149333705
+Annelida,61 Vir c,Scarlet,385746738
+Mollusca,61 Vir c,Desert,1307618678
+Arthropoda,61 Vir c,Swamp,2044107240
+Echinodermata,61 Vir d,Marshland,750812441
+Chordata,61 Vir d,Tundra,1854861254
+Bryophyta,61 Vir d,Tropical,12229291
+Pteridophyta,7 CMa b,Alpine,1840648092
+Angiospermae,7 CMa b,Nemoral,881233944
+Porifera,7 CMa b,Temperate,1231125947
+Cnidaria,7 CMa c,Boreal,1769639863
+Platyhelminthes,7 CMa c,Scarlet,379551788
+Nematoda,7 CMa c,Desert,1783374800
+Annelida,70 Vir b,Swamp,392300822
+Mollusca,70 Vir b,Marshland,1895192371
+Arthropoda,70 Vir b,Tundra,1317246412
+Echinodermata,75 Cet b,Tropical,1759736038
+Chordata,75 Cet b,Alpine,60641264
+Bryophyta,75 Cet b,Nemoral,261803648
+Pteridophyta,75 Cet c,Temperate,1350020237
+Angiospermae,75 Cet c,Boreal,217762824
+Porifera,75 Cet c,Scarlet,1231052502
+Cnidaria,8 UMi b,Desert,216639446
+Platyhelminthes,8 UMi b,Swamp,1819734714
+Nematoda,8 UMi b,Marshland,411577005
+Annelida,81 Cet b,Tundra,207007737
+Mollusca,81 Cet b,Tropical,183698970
+Arthropoda,81 Cet b,Alpine,1696785036
+Echinodermata,91 Aqr b,Nemoral,1888605201
+Chordata,91 Aqr b,Temperate,1301944655
+Bryophyta,91 Aqr b,Boreal,1364931296
+Pteridophyta,AB Aur b,Scarlet,27922314
+Angiospermae,AB Aur b,Desert,1472123713
+Porifera,AB Aur b,Swamp,1895080129
+Cnidaria,AB Pic b,Marshland,836358677
+Platyhelminthes,AB Pic b,Tundra,1489869286
+Nematoda,AB Pic b,Tropical,1688311720
+Annelida,AF Lep b,Alpine,946345815
+Mollusca,AF Lep b,Nemoral,716029247
+Arthropoda,AF Lep b,Temperate,1275343146
+Echinodermata,AU Mic b,Boreal,1986191223
+Chordata,AU Mic b,Scarlet,732048563
+Bryophyta,AU Mic b,Desert,957132443
+Pteridophyta,AU Mic c,Swamp,2001618611
+Angiospermae,AU Mic c,Marshland,500921738
+Porifera,AU Mic c,Tundra,1026069555
+Cnidaria,AU Mic d,Tropical,1065130761
+Platyhelminthes,AU Mic d,Alpine,156741205
+Nematoda,AU Mic d,Nemoral,1759592628
+Annelida,Barnard b,Temperate,233191611
+Mollusca,Barnard b,Boreal,2108196180
+Arthropoda,Barnard b,Scarlet,1007362893
+Echinodermata,BD+03 2562 b,Desert,317083805
+Chordata,BD+03 2562 b,Swamp,143854574
+Bryophyta,BD+03 2562 b,Marshland,466329124
+Pteridophyta,BD+14 4559 b,Tundra,958173192
+Angiospermae,BD+14 4559 b,Tropical,1223070940
+Porifera,BD+14 4559 b,Alpine,785431169
+Cnidaria,BD+15 2375 b,Nemoral,1684202425
+Platyhelminthes,BD+15 2375 b,Temperate,753943637
+Nematoda,BD+15 2375 b,Boreal,1450077182
+Annelida,BD+15 2940 b,Scarlet,1026231110
+Mollusca,BD+15 2940 b,Desert,1527962397
+Arthropoda,BD+15 2940 b,Swamp,523682859
+Echinodermata,BD+20 2457 b,Marshland,956228206
+Chordata,BD+20 2457 b,Tundra,1434644661
+Bryophyta,BD+20 2457 b,Tropical,98900591
+Pteridophyta,BD+20 2457 c,Alpine,562252170
+Angiospermae,BD+20 2457 c,Nemoral,591927352
+Porifera,BD+20 2457 c,Temperate,1005872692
+Cnidaria,BD+20 274 b,Boreal,239255237
+Platyhelminthes,BD+20 274 b,Scarlet,2072941766
+Nematoda,BD+20 274 b,Desert,1845093438
+Annelida,BD+20 594 b,Swamp,273511362
+Mollusca,BD+20 594 b,Marshland,1359974885
+Arthropoda,BD+20 594 b,Tundra,282200416
+Echinodermata,BD+45 564 b,Tropical,1031658477
+Chordata,BD+45 564 b,Alpine,1310067087
+Bryophyta,BD+45 564 b,Nemoral,968327319
+Pteridophyta,BD+48 738 b,Temperate,1856408135
+Angiospermae,BD+48 738 b,Boreal,601702365
+Porifera,BD+48 738 b,Scarlet,251825733
+Cnidaria,BD+48 740 b,Desert,386801529
+Platyhelminthes,BD+48 740 b,Swamp,1109254570
+Nematoda,BD+48 740 b,Marshland,1540163260
+Annelida,BD+49 828 b,Tundra,1193244299
+Mollusca,BD+49 828 b,Tropical,235924561
+Arthropoda,BD+49 828 b,Alpine,284492376
+Echinodermata,BD+55 362 b,Nemoral,1961008595
+Chordata,BD+55 362 b,Temperate,1552852289
+Bryophyta,BD+55 362 b,Boreal,52920815
+Pteridophyta,BD+60 1417 b,Scarlet,1400964955
+Angiospermae,BD+60 1417 b,Desert,1700256530
+Porifera,BD+60 1417 b,Swamp,1618729112
+Cnidaria,BD+63 1405 b,Marshland,594729536
+Platyhelminthes,BD+63 1405 b,Tundra,740321678
+Nematoda,BD+63 1405 b,Tropical,1160830012
+Annelida,BD-06 1339 b,Alpine,605883671
+Mollusca,BD-06 1339 b,Nemoral,926486207
+Arthropoda,BD-06 1339 b,Temperate,1026014981
+Echinodermata,BD-06 1339 c,Boreal,1587751752
+Chordata,BD-06 1339 c,Scarlet,1996906236
+Bryophyta,BD-06 1339 c,Desert,713387421
+Pteridophyta,BD-08 2823 b,Swamp,306501942
+Angiospermae,BD-08 2823 b,Marshland,1971001344
+Porifera,BD-08 2823 b,Tundra,778350829
+Cnidaria,BD-08 2823 c,Tropical,922710809
+Platyhelminthes,BD-08 2823 c,Alpine,1704931627
+Nematoda,BD-08 2823 c,Nemoral,1118189367
+Annelida,BD-10 3166 b,Temperate,1255534794
+Mollusca,BD-10 3166 b,Boreal,1718709072
+Arthropoda,BD-10 3166 b,Scarlet,1095195927
+Echinodermata,BD-11 4672 b,Desert,1192958869
+Chordata,BD-11 4672 b,Swamp,870124813
+Bryophyta,BD-11 4672 b,Marshland,1117624089
+Pteridophyta,BD-11 4672 c,Tundra,543312120
+Angiospermae,BD-11 4672 c,Tropical,420879634
+Porifera,BD-11 4672 c,Alpine,963654759
+Cnidaria,BD-13 2130 b,Nemoral,564705709
+Platyhelminthes,BD-13 2130 b,Temperate,1388450148
+Nematoda,BD-13 2130 b,Boreal,1373062162
+Annelida,BD-14 3065 b,Scarlet,1232827063
+Mollusca,BD-14 3065 b,Desert,1921338005
+Arthropoda,BD-14 3065 b,Swamp,448293687
+Echinodermata,BD-17 63 b,Marshland,990228040
+Chordata,BD-17 63 b,Tundra,794633200
+Bryophyta,BD-17 63 b,Tropical,1809840118
+Pteridophyta,BD-210397 b,Alpine,1629045256
+Angiospermae,BD-210397 b,Nemoral,1155685054
+Porifera,BD-210397 b,Temperate,1159633325
+Cnidaria,BD-210397 c,Boreal,1408564555
+Platyhelminthes,BD-210397 c,Scarlet,2088306480
+Nematoda,BD-210397 c,Desert,925034390
+Annelida,CD Cet b,Swamp,414737724
+Mollusca,CD Cet b,Marshland,1626718778
+Arthropoda,CD Cet b,Tundra,970106301
+Echinodermata,CFBDSIR J145829+101343 b,Tropical,1502845665
+Chordata,CFBDSIR J145829+101343 b,Alpine,1305518504
+Bryophyta,CFBDSIR J145829+101343 b,Nemoral,1268889276
+Pteridophyta,CFHTWIR-Oph 98 b,Temperate,396873125
+Angiospermae,CFHTWIR-Oph 98 b,Boreal,29739376
+Porifera,CFHTWIR-Oph 98 b,Scarlet,1939944427
+Cnidaria,CHXR 73 b,Desert,1056934850
+Platyhelminthes,CHXR 73 b,Swamp,1448162711
+Nematoda,CHXR 73 b,Marshland,1331724192
+Annelida,CI Tau c,Tundra,735695354
+Mollusca,CI Tau c,Tropical,1411135698
+Arthropoda,CI Tau c,Alpine,1942708280
+Echinodermata,COCONUTS-2 b,Nemoral,801086283
+Chordata,COCONUTS-2 b,Temperate,1386860348
+Bryophyta,COCONUTS-2 b,Boreal,960572492
+Pteridophyta,CoRoT-1 b,Scarlet,1267127744
+Angiospermae,CoRoT-1 b,Desert,521732515
+Porifera,CoRoT-1 b,Swamp,1397770529
+Cnidaria,CoRoT-10 b,Marshland,565402813
+Platyhelminthes,CoRoT-10 b,Tundra,575479753
+Nematoda,CoRoT-10 b,Tropical,1360032165
+Annelida,CoRoT-11 b,Alpine,62420299
+Mollusca,CoRoT-11 b,Nemoral,503408253
+Arthropoda,CoRoT-11 b,Temperate,1631327804
+Echinodermata,CoRoT-12 b,Boreal,1968310795
+Chordata,CoRoT-12 b,Scarlet,1865573277
+Bryophyta,CoRoT-12 b,Desert,1437332936
+Pteridophyta,CoRoT-13 b,Swamp,1292654721
+Angiospermae,CoRoT-13 b,Marshland,880582058
+Porifera,CoRoT-13 b,Tundra,158551074
+Cnidaria,CoRoT-14 b,Tropical,336223721
+Platyhelminthes,CoRoT-14 b,Alpine,262310399
+Nematoda,CoRoT-14 b,Nemoral,1145594
+Annelida,CoRoT-16 b,Temperate,1100721580
+Mollusca,CoRoT-16 b,Boreal,264382855
+Arthropoda,CoRoT-16 b,Scarlet,92483514
+Echinodermata,CoRoT-17 b,Desert,49390783
+Chordata,CoRoT-17 b,Swamp,1224145062
+Bryophyta,CoRoT-17 b,Marshland,286615443
+Pteridophyta,CoRoT-18 b,Tundra,461702735
+Angiospermae,CoRoT-18 b,Tropical,2062422399
+Porifera,CoRoT-18 b,Alpine,14728192
+Cnidaria,CoRoT-19 b,Nemoral,2095697175
+Platyhelminthes,CoRoT-19 b,Temperate,1807538787
+Nematoda,CoRoT-19 b,Boreal,1922937767
+Annelida,CoRoT-2 b,Scarlet,303771699
+Mollusca,CoRoT-2 b,Desert,2088772525
+Arthropoda,CoRoT-2 b,Swamp,184698929
+Echinodermata,CoRoT-20 b,Marshland,1720902974
+Chordata,CoRoT-20 b,Tundra,1051893599
+Bryophyta,CoRoT-20 b,Tropical,581474878
+Pteridophyta,CoRoT-20 c,Alpine,7252057
+Angiospermae,CoRoT-20 c,Nemoral,1182227241
+Porifera,CoRoT-20 c,Temperate,1215723522
+Cnidaria,CoRoT-21 b,Boreal,297751733
+Platyhelminthes,CoRoT-21 b,Scarlet,415461931
+Nematoda,CoRoT-21 b,Desert,1604632229
+Annelida,CoRoT-22 b,Swamp,1550634650
+Mollusca,CoRoT-22 b,Marshland,635544651
+Arthropoda,CoRoT-22 b,Tundra,1821340423
+Echinodermata,CoRoT-23 b,Tropical,1562907901
+Chordata,CoRoT-23 b,Alpine,882806253
+Bryophyta,CoRoT-23 b,Nemoral,991912287
+Pteridophyta,CoRoT-24 b,Temperate,1616556571
+Angiospermae,CoRoT-24 b,Boreal,657438921
+Porifera,CoRoT-24 b,Scarlet,1528191540
+Cnidaria,CoRoT-24 c,Desert,238923143
+Platyhelminthes,CoRoT-24 c,Swamp,1156145246
+Nematoda,CoRoT-24 c,Marshland,2046492225
+Annelida,CoRoT-25 b,Tundra,1078904426
+Mollusca,CoRoT-25 b,Tropical,1168100755
+Arthropoda,CoRoT-25 b,Alpine,1756394532
+Echinodermata,CoRoT-26 b,Nemoral,860295964
+Chordata,CoRoT-26 b,Temperate,656687141
+Bryophyta,CoRoT-26 b,Boreal,1850278491
+Pteridophyta,CoRoT-27 b,Scarlet,537241186
+Angiospermae,CoRoT-27 b,Desert,591629490
+Porifera,CoRoT-27 b,Swamp,1492357382
+Cnidaria,CoRoT-28 b,Marshland,1339770802
+Platyhelminthes,CoRoT-28 b,Tundra,1051311510
+Nematoda,CoRoT-28 b,Tropical,1241618176
+Annelida,CoRoT-29 b,Alpine,905308679
+Mollusca,CoRoT-29 b,Nemoral,536618836
+Arthropoda,CoRoT-29 b,Temperate,1862514993
+Echinodermata,CoRoT-3 b,Boreal,1762573809
+Chordata,CoRoT-3 b,Scarlet,1882672031
+Bryophyta,CoRoT-3 b,Desert,1913803442
+Pteridophyta,CoRoT-30 b,Swamp,1561276037
+Angiospermae,CoRoT-30 b,Marshland,566937486
+Porifera,CoRoT-30 b,Tundra,9381367
+Cnidaria,CoRoT-31 b,Tropical,44775777
+Platyhelminthes,CoRoT-31 b,Alpine,1372278896
+Nematoda,CoRoT-31 b,Nemoral,596724732
+Annelida,CoRoT-35 b,Temperate,40404482
+Mollusca,CoRoT-35 b,Boreal,1057038013
+Arthropoda,CoRoT-35 b,Scarlet,716341125
+Echinodermata,CoRoT-36 b,Desert,87514056
+Chordata,CoRoT-36 b,Swamp,1953672276
+Bryophyta,CoRoT-36 b,Marshland,786897514
+Pteridophyta,CoRoT-4 b,Tundra,704455457
+Angiospermae,CoRoT-4 b,Tropical,1633386467
+Porifera,CoRoT-4 b,Alpine,2067721099
+Cnidaria,CoRoT-5 b,Nemoral,1426503814
+Platyhelminthes,CoRoT-5 b,Temperate,74058435
+Nematoda,CoRoT-5 b,Boreal,1987445955
+Annelida,CoRoT-6 b,Scarlet,531009434
+Mollusca,CoRoT-6 b,Desert,1909989176
+Arthropoda,CoRoT-6 b,Swamp,1590934779
+Echinodermata,CoRoT-7 b,Marshland,137840305
+Chordata,CoRoT-7 b,Tundra,1668964754
+Bryophyta,CoRoT-7 b,Tropical,770045562
+Pteridophyta,CoRoT-7 c,Alpine,1887604142
+Angiospermae,CoRoT-7 c,Nemoral,460466776
+Porifera,CoRoT-7 c,Temperate,965318625
+Cnidaria,CoRoT-7 d,Boreal,1321096178
+Platyhelminthes,CoRoT-7 d,Scarlet,105824722
+Nematoda,CoRoT-7 d,Desert,448822933
+Annelida,CoRoT-8 b,Swamp,759021971
+Mollusca,CoRoT-8 b,Marshland,269605766
+Arthropoda,CoRoT-8 b,Tundra,63382857
+Echinodermata,CoRoT-9 b,Tropical,2034464431
+Chordata,CoRoT-9 b,Alpine,680509621
+Bryophyta,CoRoT-9 b,Nemoral,2026987890
+Pteridophyta,CoRoTID 223977153 b,Temperate,1798218275
+Angiospermae,CoRoTID 223977153 b,Boreal,626596677
+Porifera,CoRoTID 223977153 b,Scarlet,439045551
+Cnidaria,CT Cha b,Desert,1773236962
+Platyhelminthes,CT Cha b,Swamp,2144473222
+Nematoda,CT Cha b,Marshland,1315343054
+Annelida,DE CVn b,Tundra,1354095212
+Mollusca,DE CVn b,Tropical,1104031730
+Arthropoda,DE CVn b,Alpine,308880693
+Echinodermata,DENIS-P J082303.1-491201 b,Nemoral,219108854
+Chordata,DENIS-P J082303.1-491201 b,Temperate,1677838505
+Bryophyta,DENIS-P J082303.1-491201 b,Boreal,1614301590
+Pteridophyta,DH Tau b,Scarlet,864879605
+Angiospermae,DH Tau b,Desert,1701504047
+Porifera,DH Tau b,Swamp,1675776368
+Cnidaria,DMPP-1 b,Marshland,262316416
+Platyhelminthes,DMPP-1 b,Tundra,757059276
+Nematoda,DMPP-1 b,Tropical,891463871
+Annelida,DMPP-1 c,Alpine,1170926918
+Mollusca,DMPP-1 c,Nemoral,2010713376
+Arthropoda,DMPP-1 c,Temperate,1562267674
+Echinodermata,DMPP-1 d,Boreal,1489910426
+Chordata,DMPP-1 d,Scarlet,929046062
+Bryophyta,DMPP-1 d,Desert,293812397
+Pteridophyta,DMPP-1 e,Swamp,171448081
+Angiospermae,DMPP-1 e,Marshland,1651939716
+Porifera,DMPP-1 e,Tundra,2125553044
+Cnidaria,DMPP-2 b,Tropical,1229497768
+Platyhelminthes,DMPP-2 b,Alpine,528897167
+Nematoda,DMPP-2 b,Nemoral,30706577
+Annelida,DMPP-3 A b,Temperate,1058113072
+Mollusca,DMPP-3 A b,Boreal,1316121319
+Arthropoda,DMPP-3 A b,Scarlet,1864275407
+Echinodermata,DMPP-4 b,Desert,160983371
+Chordata,DMPP-4 b,Swamp,1139910318
+Bryophyta,DMPP-4 b,Marshland,2062058232
+Pteridophyta,DP Leo b,Tundra,940252979
+Angiospermae,DP Leo b,Tropical,1411361193
+Porifera,DP Leo b,Alpine,419861824
+Cnidaria,DS Tuc A b,Nemoral,1333726861
+Platyhelminthes,DS Tuc A b,Temperate,235454845
+Nematoda,DS Tuc A b,Boreal,1803300347
+Annelida,EPIC 201170410.02,Scarlet,974931899
+Mollusca,EPIC 201170410.02,Desert,899887766
+Arthropoda,EPIC 201170410.02,Swamp,1103239053
+Echinodermata,EPIC 201238110 b,Marshland,506173883
+Chordata,EPIC 201238110 b,Tundra,254510036
+Bryophyta,EPIC 201238110 b,Tropical,317570841
+Pteridophyta,EPIC 201427007 b,Alpine,1769936689
+Angiospermae,EPIC 201427007 b,Nemoral,1131966344
+Porifera,EPIC 201427007 b,Temperate,1997683054
+Cnidaria,EPIC 201497682 b,Boreal,565108814
+Platyhelminthes,EPIC 201497682 b,Scarlet,171948836
+Nematoda,EPIC 201497682 b,Desert,3890265
+Annelida,EPIC 201595106 b,Swamp,1288433056
+Mollusca,EPIC 201595106 b,Marshland,1094599167
+Arthropoda,EPIC 201595106 b,Tundra,1163910633
+Echinodermata,EPIC 201615463 c,Tropical,969511554
+Chordata,EPIC 201615463 c,Alpine,1496290603
+Bryophyta,EPIC 201615463 c,Nemoral,256100440
+Pteridophyta,EPIC 201754305 d,Temperate,786393094
+Angiospermae,EPIC 201754305 d,Boreal,1877889527
+Porifera,EPIC 201754305 d,Scarlet,657963212
+Cnidaria,EPIC 201757695.02,Desert,954282701
+Platyhelminthes,EPIC 201757695.02,Swamp,1884431891
+Nematoda,EPIC 201757695.02,Marshland,736667148
+Annelida,EPIC 201833600 c,Tundra,138579706
+Mollusca,EPIC 201833600 c,Tropical,1341424151
+Arthropoda,EPIC 201833600 c,Alpine,1531243011
+Echinodermata,EPIC 201841433 b,Nemoral,324514380
+Chordata,EPIC 201841433 b,Temperate,1864495179
+Bryophyta,EPIC 201841433 b,Boreal,46238247
+Pteridophyta,EPIC 205950854 c,Scarlet,752039775
+Angiospermae,EPIC 205950854 c,Desert,2120289610
+Porifera,EPIC 205950854 c,Swamp,405671060
+Cnidaria,EPIC 206024342 b,Marshland,106558669
+Platyhelminthes,EPIC 206024342 b,Tundra,1365911337
+Nematoda,EPIC 206024342 b,Tropical,959180852
+Annelida,EPIC 206024342 c,Alpine,1673713270
+Mollusca,EPIC 206024342 c,Nemoral,1858749180
+Arthropoda,EPIC 206024342 c,Temperate,1582604143
+Echinodermata,EPIC 206024342 d,Boreal,1032970155
+Chordata,EPIC 206024342 d,Scarlet,58030239
+Bryophyta,EPIC 206024342 d,Desert,17537974
+Pteridophyta,EPIC 206032309 b,Swamp,1570086273
+Angiospermae,EPIC 206032309 b,Marshland,817566323
+Porifera,EPIC 206032309 b,Tundra,1396038670
+Cnidaria,EPIC 206042996 b,Tropical,778031075
+Platyhelminthes,EPIC 206042996 b,Alpine,1418769909
+Nematoda,EPIC 206042996 b,Nemoral,1891490939
+Annelida,EPIC 206042996 c,Temperate,976791826
+Mollusca,EPIC 206042996 c,Boreal,76484815
+Arthropoda,EPIC 206042996 c,Scarlet,1786322398
+Echinodermata,EPIC 206215704 b,Desert,178149434
+Chordata,EPIC 206215704 b,Swamp,1555542235
+Bryophyta,EPIC 206215704 b,Marshland,930256232
+Pteridophyta,EPIC 206317286 b,Tundra,1890734275
+Angiospermae,EPIC 206317286 b,Tropical,429463313
+Porifera,EPIC 206317286 b,Alpine,1481090692
+Cnidaria,EPIC 206317286 c,Nemoral,615861857
+Platyhelminthes,EPIC 206317286 c,Temperate,630254255
+Nematoda,EPIC 206317286 c,Boreal,1074779831
+Annelida,EPIC 211822797 b,Scarlet,30958349
+Mollusca,EPIC 211822797 b,Desert,1898900338
+Arthropoda,EPIC 211822797 b,Swamp,178599902
+Echinodermata,EPIC 211945201 b,Marshland,513700629
+Chordata,EPIC 211945201 b,Tundra,808680923
+Bryophyta,EPIC 211945201 b,Tropical,1822267859
+Pteridophyta,EPIC 212297394 b,Alpine,940614305
+Angiospermae,EPIC 212297394 b,Nemoral,1659250256
+Porifera,EPIC 212297394 b,Temperate,459132437
+Cnidaria,EPIC 212297394 c,Boreal,890445096
+Platyhelminthes,EPIC 212297394 c,Scarlet,804606283
+Nematoda,EPIC 212297394 c,Desert,1816266090
+Annelida,EPIC 212424622 b,Swamp,1382274828
+Mollusca,EPIC 212424622 b,Marshland,1835092424
+Arthropoda,EPIC 212424622 b,Tundra,572322496
+Echinodermata,EPIC 212499991 b,Tropical,934286279
+Chordata,EPIC 212499991 b,Alpine,170479847
+Bryophyta,EPIC 212499991 b,Nemoral,2068465334
+Pteridophyta,EPIC 212587672 b,Temperate,124046220
+Angiospermae,EPIC 212587672 b,Boreal,1799855092
+Porifera,EPIC 212587672 b,Scarlet,272986826
+Cnidaria,EPIC 212587672 c,Desert,445976449
+Platyhelminthes,EPIC 212587672 c,Swamp,572160452
+Nematoda,EPIC 212587672 c,Marshland,1563207269
+Annelida,EPIC 212624936 b,Tundra,821105171
+Mollusca,EPIC 212624936 b,Tropical,290161968
+Arthropoda,EPIC 212624936 b,Alpine,1972107731
+Echinodermata,EPIC 212624936 c,Nemoral,1062834016
+Chordata,EPIC 212624936 c,Temperate,466933083
+Bryophyta,EPIC 212624936 c,Boreal,633074102
+Pteridophyta,EPIC 212737443 b,Scarlet,1084567424
+Angiospermae,EPIC 212737443 b,Desert,1308963208
+Porifera,EPIC 212737443 b,Swamp,1466559022
+Cnidaria,EPIC 212737443 c,Marshland,1204453074
+Platyhelminthes,EPIC 212737443 c,Tundra,969741890
+Nematoda,EPIC 212737443 c,Tropical,1765410965
+Annelida,EPIC 220492298 b,Alpine,1731049168
+Mollusca,EPIC 220492298 b,Nemoral,1115686017
+Arthropoda,EPIC 220492298 b,Temperate,381545762
+Echinodermata,EPIC 220554210 c,Boreal,548096082
+Chordata,EPIC 220554210 c,Scarlet,1403867358
+Bryophyta,EPIC 220554210 c,Desert,377391981
+Pteridophyta,EPIC 220674823 b,Swamp,856656283
+Angiospermae,EPIC 220674823 b,Marshland,1694505714
+Porifera,EPIC 220674823 b,Tundra,1976056417
+Cnidaria,EPIC 220674823 c,Tropical,1760650058
+Platyhelminthes,EPIC 220674823 c,Alpine,1678550944
+Nematoda,EPIC 220674823 c,Nemoral,1963093296
+Annelida,EPIC 228836835 b,Temperate,1151313718
+Mollusca,EPIC 228836835 b,Boreal,1259259169
+Arthropoda,EPIC 228836835 b,Scarlet,1561740413
+Echinodermata,EPIC 229004835 b,Desert,1459915046
+Chordata,EPIC 229004835 b,Swamp,909971370
+Bryophyta,EPIC 229004835 b,Marshland,608897949
+Pteridophyta,EPIC 246851721 b,Tundra,258932724
+Angiospermae,EPIC 246851721 b,Tropical,159333103
+Porifera,EPIC 246851721 b,Alpine,89471687
+Cnidaria,EPIC 248847494 b,Nemoral,134327759
+Platyhelminthes,EPIC 248847494 b,Temperate,1333374985
+Nematoda,EPIC 248847494 b,Boreal,736030435
+Annelida,EPIC 249893012 b,Scarlet,859702181
+Mollusca,EPIC 249893012 b,Desert,2074748801
+Arthropoda,EPIC 249893012 b,Swamp,1614171952
+Echinodermata,EPIC 249893012 c,Marshland,1863661594
+Chordata,EPIC 249893012 c,Tundra,1468262411
+Bryophyta,EPIC 249893012 c,Tropical,1949471777
+Pteridophyta,EPIC 249893012 d,Alpine,1803827374
+Angiospermae,EPIC 249893012 d,Nemoral,108323253
+Porifera,EPIC 249893012 d,Temperate,1843677234
+Cnidaria,FU Tau b,Boreal,1344994793
+Platyhelminthes,FU Tau b,Scarlet,466964324
+Nematoda,FU Tau b,Desert,1248496404
+Annelida,G 196-3 b,Swamp,1536294288
+Mollusca,G 196-3 b,Marshland,1715295315
+Arthropoda,G 196-3 b,Tundra,1909678927
+Echinodermata,G 264-012 b,Tropical,1154657657
+Chordata,G 264-012 b,Alpine,728615421
+Bryophyta,G 264-012 b,Nemoral,1462851398
+Pteridophyta,G 264-012 c,Temperate,544157174
+Angiospermae,G 264-012 c,Boreal,1536422710
+Porifera,G 264-012 c,Scarlet,1050227390
+Cnidaria,G 9-40 b,Desert,523854986
+Platyhelminthes,G 9-40 b,Swamp,1825150212
+Nematoda,G 9-40 b,Marshland,2017569746
+Annelida,Gaia-1 b,Tundra,2129029777
+Mollusca,Gaia-1 b,Tropical,1305858922
+Arthropoda,Gaia-1 b,Alpine,1822930935
+Echinodermata,Gaia-2 b,Nemoral,916969536
+Chordata,Gaia-2 b,Temperate,494262480
+Bryophyta,Gaia-2 b,Boreal,1129720338
+Pteridophyta,Gaia22dkvL b,Scarlet,566165596
+Angiospermae,Gaia22dkvL b,Desert,1603462695
+Porifera,Gaia22dkvL b,Swamp,1546339972
+Cnidaria,GJ 1002 b,Marshland,205068636
+Platyhelminthes,GJ 1002 b,Tundra,1611039561
+Nematoda,GJ 1002 b,Tropical,1387416434
+Annelida,GJ 1002 c,Alpine,1853828083
+Mollusca,GJ 1002 c,Nemoral,1799683443
+Arthropoda,GJ 1002 c,Temperate,1490705468
+Echinodermata,GJ 1061 b,Boreal,1750600043
+Chordata,GJ 1061 b,Scarlet,987670570
+Bryophyta,GJ 1061 b,Desert,720431264
+Pteridophyta,GJ 1061 c,Swamp,237237220
+Angiospermae,GJ 1061 c,Marshland,1899937078
+Porifera,GJ 1061 c,Tundra,507802363
+Cnidaria,GJ 1061 d,Tropical,1223871679
+Platyhelminthes,GJ 1061 d,Alpine,1153899669
+Nematoda,GJ 1061 d,Nemoral,1749644073
+Annelida,GJ 1132 b,Temperate,1652871814
+Mollusca,GJ 1132 b,Boreal,1621764476
+Arthropoda,GJ 1132 b,Scarlet,878652762
+Echinodermata,GJ 1132 c,Desert,2123861655
+Chordata,GJ 1132 c,Swamp,1769487641
+Bryophyta,GJ 1132 c,Marshland,464269389
+Pteridophyta,GJ 1148 b,Tundra,230105506
+Angiospermae,GJ 1148 b,Tropical,570641593
+Porifera,GJ 1148 b,Alpine,2041920481
+Cnidaria,GJ 1148 c,Nemoral,1775499354
+Platyhelminthes,GJ 1148 c,Temperate,1123005353
+Nematoda,GJ 1148 c,Boreal,2095703619
+Annelida,GJ 1151 c,Scarlet,139902756
+Mollusca,GJ 1151 c,Desert,1377218550
+Arthropoda,GJ 1151 c,Swamp,953737181
+Echinodermata,GJ 1214 b,Marshland,971725116
+Chordata,GJ 1214 b,Tundra,204187786
+Bryophyta,GJ 1214 b,Tropical,252689125
+Pteridophyta,GJ 1252 b,Alpine,1489611912
+Angiospermae,GJ 1252 b,Nemoral,1141763242
+Porifera,GJ 1252 b,Temperate,1880633854
+Cnidaria,GJ 1265 b,Boreal,1994173457
+Platyhelminthes,GJ 1265 b,Scarlet,1909614625
+Nematoda,GJ 1265 b,Desert,145819569
+Annelida,GJ 143 b,Swamp,242183387
+Mollusca,GJ 143 b,Marshland,246664056
+Arthropoda,GJ 143 b,Tundra,863778907
+Echinodermata,GJ 15 A b,Tropical,335370757
+Chordata,GJ 15 A b,Alpine,1580016062
+Bryophyta,GJ 15 A b,Nemoral,1464078752
+Pteridophyta,GJ 15 A c,Temperate,1074613742
+Angiospermae,GJ 15 A c,Boreal,2003702207
+Porifera,GJ 15 A c,Scarlet,848898425
+Cnidaria,GJ 160.2 b,Desert,1287837593
+Platyhelminthes,GJ 160.2 b,Swamp,1908945173
+Nematoda,GJ 160.2 b,Marshland,30155777
+Annelida,GJ 163 b,Tundra,1324478960
+Mollusca,GJ 163 b,Tropical,1777133061
+Arthropoda,GJ 163 b,Alpine,331797637
+Echinodermata,GJ 163 c,Nemoral,1115667465
+Chordata,GJ 163 c,Temperate,1740537274
+Bryophyta,GJ 163 c,Boreal,1099232652
+Pteridophyta,GJ 163 d,Scarlet,1655905911
+Angiospermae,GJ 163 d,Desert,1554903397
+Porifera,GJ 163 d,Swamp,1287940920
+Cnidaria,GJ 179 b,Marshland,1269974699
+Platyhelminthes,GJ 179 b,Tundra,925413014
+Nematoda,GJ 179 b,Tropical,1759596388
+Annelida,GJ 180 b,Alpine,1586457752
+Mollusca,GJ 180 b,Nemoral,1078196692
+Arthropoda,GJ 180 b,Temperate,434248738
+Echinodermata,GJ 180 c,Boreal,34194190
+Chordata,GJ 180 c,Scarlet,1633203410
+Bryophyta,GJ 180 c,Desert,211999248
+Pteridophyta,GJ 180 d,Swamp,1652625757
+Angiospermae,GJ 180 d,Marshland,1263273545
+Porifera,GJ 180 d,Tundra,59277310
+Cnidaria,GJ 2030 b,Tropical,2015334639
+Platyhelminthes,GJ 2030 b,Alpine,674457436
+Nematoda,GJ 2030 b,Nemoral,585739018
+Annelida,GJ 2030 c,Temperate,922396211
+Mollusca,GJ 2030 c,Boreal,1047939157
+Arthropoda,GJ 2030 c,Scarlet,496934368
+Echinodermata,GJ 2056 b,Desert,521478931
+Chordata,GJ 2056 b,Swamp,245105689
+Bryophyta,GJ 2056 b,Marshland,1866484097
+Pteridophyta,GJ 229 A c,Tundra,744328580
+Angiospermae,GJ 229 A c,Tropical,1671951748
+Porifera,GJ 229 A c,Alpine,1725606073
+Cnidaria,GJ 229 b,Nemoral,64516629
+Platyhelminthes,GJ 229 b,Temperate,1671409461
+Nematoda,GJ 229 b,Boreal,1548249825
+Annelida,GJ 238 b,Scarlet,131234837
+Mollusca,GJ 238 b,Desert,1358469333
+Arthropoda,GJ 238 b,Swamp,1787949209
+Echinodermata,GJ 251 b,Marshland,1342477357
+Chordata,GJ 251 b,Tundra,604470491
+Bryophyta,GJ 251 b,Tropical,285180283
+Pteridophyta,GJ 27.1 b,Alpine,925496558
+Angiospermae,GJ 27.1 b,Nemoral,175210785
+Porifera,GJ 27.1 b,Temperate,1354587219
+Cnidaria,GJ 273 b,Boreal,1369277979
+Platyhelminthes,GJ 273 b,Scarlet,690477403
+Nematoda,GJ 273 b,Desert,743781661
+Annelida,GJ 273 c,Swamp,1553848793
+Mollusca,GJ 273 c,Marshland,1517486552
+Arthropoda,GJ 273 c,Tundra,1873133837
+Echinodermata,GJ 3021 b,Tropical,43511232
+Chordata,GJ 3021 b,Alpine,1769045311
+Bryophyta,GJ 3021 b,Nemoral,1671990745
+Pteridophyta,GJ 3082 b,Temperate,2092072699
+Angiospermae,GJ 3082 b,Boreal,2054226372
+Porifera,GJ 3082 b,Scarlet,1405556417
+Cnidaria,GJ 3090 b,Desert,1705592267
+Platyhelminthes,GJ 3090 b,Swamp,715230578
+Nematoda,GJ 3090 b,Marshland,544398648
+Annelida,GJ 3138 b,Tundra,437806600
+Mollusca,GJ 3138 b,Tropical,160529419
+Arthropoda,GJ 3138 b,Alpine,277124655
+Echinodermata,GJ 3138 c,Nemoral,9769737
+Chordata,GJ 3138 c,Temperate,800408124
+Bryophyta,GJ 3138 c,Boreal,1237304815
+Pteridophyta,GJ 3138 d,Scarlet,1096868726
+Angiospermae,GJ 3138 d,Desert,1820940981
+Porifera,GJ 3138 d,Swamp,1263847910
+Cnidaria,GJ 317 b,Marshland,1667784042
+Platyhelminthes,GJ 317 b,Tundra,1349120419
+Nematoda,GJ 317 b,Tropical,137633760
+Annelida,GJ 317 c,Alpine,1733055449
+Mollusca,GJ 317 c,Nemoral,176367240
+Arthropoda,GJ 317 c,Temperate,264401169
+Echinodermata,GJ 3222 b,Boreal,768882270
+Chordata,GJ 3222 b,Scarlet,1759044286
+Bryophyta,GJ 3222 b,Desert,449128910
+Pteridophyta,GJ 328 b,Swamp,2008018151
+Angiospermae,GJ 328 b,Marshland,218822509
+Porifera,GJ 328 b,Tundra,772521963
+Cnidaria,GJ 328 c,Tropical,2091769964
+Platyhelminthes,GJ 328 c,Alpine,1775941251
+Nematoda,GJ 328 c,Nemoral,1583827193
+Annelida,GJ 3293 b,Temperate,455437808
+Mollusca,GJ 3293 b,Boreal,610926592
+Arthropoda,GJ 3293 b,Scarlet,2000306580
+Echinodermata,GJ 3293 c,Desert,1076013529
+Chordata,GJ 3293 c,Swamp,1966159630
+Bryophyta,GJ 3293 c,Marshland,1256734839
+Pteridophyta,GJ 3293 d,Tundra,447742712
+Angiospermae,GJ 3293 d,Tropical,1538745722
+Porifera,GJ 3293 d,Alpine,250160065
+Cnidaria,GJ 3293 e,Nemoral,514435939
+Platyhelminthes,GJ 3293 e,Temperate,1624610820
+Nematoda,GJ 3293 e,Boreal,2073763866
+Annelida,GJ 3323 b,Scarlet,1312776374
+Mollusca,GJ 3323 b,Desert,359733876
+Arthropoda,GJ 3323 b,Swamp,1326513938
+Echinodermata,GJ 3323 c,Marshland,47994688
+Chordata,GJ 3323 c,Tundra,280933575
+Bryophyta,GJ 3323 c,Tropical,1329133158
+Pteridophyta,GJ 3341 b,Alpine,203892527
+Angiospermae,GJ 3341 b,Nemoral,1370628306
+Porifera,GJ 3341 b,Temperate,215136450
+Cnidaria,GJ 338 B b,Boreal,191914355
+Platyhelminthes,GJ 338 B b,Scarlet,1605683267
+Nematoda,GJ 338 B b,Desert,1843170591
+Annelida,GJ 3470 b,Swamp,1027986262
+Mollusca,GJ 3470 b,Marshland,1349387603
+Arthropoda,GJ 3470 b,Tundra,1908767576
+Echinodermata,GJ 3473 b,Tropical,760385488
+Chordata,GJ 3473 b,Alpine,1851095073
+Bryophyta,GJ 3473 b,Nemoral,808863027
+Pteridophyta,GJ 3473 c,Temperate,1820928901
+Angiospermae,GJ 3473 c,Boreal,1827040661
+Porifera,GJ 3473 c,Scarlet,1742544789
+Cnidaria,GJ 3512 b,Desert,1658917635
+Platyhelminthes,GJ 3512 b,Swamp,1792026873
+Nematoda,GJ 3512 b,Marshland,996666189
+Annelida,GJ 3512 c,Tundra,1252109799
+Mollusca,GJ 3512 c,Tropical,1910313274
+Arthropoda,GJ 3512 c,Alpine,886909801
+Echinodermata,GJ 357 b,Nemoral,391672241
+Chordata,GJ 357 b,Temperate,1088654940
+Bryophyta,GJ 357 b,Boreal,1635461259
+Pteridophyta,GJ 357 c,Scarlet,1519775151
+Angiospermae,GJ 357 c,Desert,1743600928
+Porifera,GJ 357 c,Swamp,877755879
+Cnidaria,GJ 357 d,Marshland,1460928288
+Platyhelminthes,GJ 357 d,Tundra,323115981
+Nematoda,GJ 357 d,Tropical,660605045
+Annelida,GJ 3634 b,Alpine,1191837907
+Mollusca,GJ 3634 b,Nemoral,1573175942
+Arthropoda,GJ 3634 b,Temperate,1893373241
+Echinodermata,GJ 367 b,Boreal,1104097613
+Chordata,GJ 367 b,Scarlet,2104466575
+Bryophyta,GJ 367 b,Desert,946874662
+Pteridophyta,GJ 367 c,Swamp,1498673720
+Angiospermae,GJ 367 c,Marshland,481151580
+Porifera,GJ 367 c,Tundra,749151687
+Cnidaria,GJ 367 d,Tropical,1493211568
+Platyhelminthes,GJ 367 d,Alpine,1434245835
+Nematoda,GJ 367 d,Nemoral,1286656260
+Annelida,GJ 3779 b,Temperate,2144078192
+Mollusca,GJ 3779 b,Boreal,382066871
+Arthropoda,GJ 3779 b,Scarlet,1394220630
+Echinodermata,GJ 3929 b,Desert,641341701
+Chordata,GJ 3929 b,Swamp,332122894
+Bryophyta,GJ 3929 b,Marshland,827835002
+Pteridophyta,GJ 3929 c,Tundra,1479024558
+Angiospermae,GJ 3929 c,Tropical,1875273589
+Porifera,GJ 3929 c,Alpine,1377959513
+Cnidaria,GJ 393 b,Nemoral,807342862
+Platyhelminthes,GJ 393 b,Temperate,1232781330
+Nematoda,GJ 393 b,Boreal,1782864920
+Annelida,GJ 3942 b,Scarlet,1227039162
+Mollusca,GJ 3942 b,Desert,2084089803
+Arthropoda,GJ 3942 b,Swamp,452925401
+Echinodermata,GJ 3988 b,Marshland,1704452302
+Chordata,GJ 3988 b,Tundra,1490815375
+Bryophyta,GJ 3988 b,Tropical,1935990531
+Pteridophyta,GJ 3998 b,Alpine,1147755171
+Angiospermae,GJ 3998 b,Nemoral,621751979
+Porifera,GJ 3998 b,Temperate,1233811147
+Cnidaria,GJ 3998 c,Boreal,264163810
+Platyhelminthes,GJ 3998 c,Scarlet,1557707477
+Nematoda,GJ 3998 c,Desert,1426693191
+Annelida,GJ 411 b,Swamp,1499550325
+Mollusca,GJ 411 b,Marshland,2128789568
+Arthropoda,GJ 411 b,Tundra,2022558662
+Echinodermata,GJ 414 A b,Tropical,909160976
+Chordata,GJ 414 A b,Alpine,719947636
+Bryophyta,GJ 414 A b,Nemoral,521787885
+Pteridophyta,GJ 414 A c,Temperate,1422444511
+Angiospermae,GJ 414 A c,Boreal,508747992
+Porifera,GJ 414 A c,Scarlet,1655457112
+Cnidaria,GJ 422 b,Desert,1702540979
+Platyhelminthes,GJ 422 b,Swamp,453208803
+Nematoda,GJ 422 b,Marshland,2082876000
+Annelida,GJ 4276 b,Tundra,2072841976
+Mollusca,GJ 4276 b,Tropical,1565857917
+Arthropoda,GJ 4276 b,Alpine,1928337819
+Echinodermata,GJ 433 b,Nemoral,909656068
+Chordata,GJ 433 b,Temperate,1575937568
+Bryophyta,GJ 433 b,Boreal,1927419810
+Pteridophyta,GJ 433 c,Scarlet,937061863
+Angiospermae,GJ 433 c,Desert,1813984974
+Porifera,GJ 433 c,Swamp,2060294796
+Cnidaria,GJ 433 d,Marshland,1587122460
+Platyhelminthes,GJ 433 d,Tundra,775639494
+Nematoda,GJ 433 d,Tropical,630704182
+Annelida,GJ 436 b,Alpine,993524870
+Mollusca,GJ 436 b,Nemoral,215307239
+Arthropoda,GJ 436 b,Temperate,216340130
+Echinodermata,GJ 463 b,Boreal,1054296994
+Chordata,GJ 463 b,Scarlet,1703288305
+Bryophyta,GJ 463 b,Desert,2005671300
+Pteridophyta,GJ 480 b,Swamp,2121173350
+Angiospermae,GJ 480 b,Marshland,914884774
+Porifera,GJ 480 b,Tundra,458648541
+Cnidaria,GJ 486 b,Tropical,1814697911
+Platyhelminthes,GJ 486 b,Alpine,1838131384
+Nematoda,GJ 486 b,Nemoral,1295875466
+Annelida,GJ 504 b,Temperate,1466954806
+Mollusca,GJ 504 b,Boreal,449099454
+Arthropoda,GJ 504 b,Scarlet,1439858163
+Echinodermata,GJ 514 b,Desert,1236378863
+Chordata,GJ 514 b,Swamp,987381967
+Bryophyta,GJ 514 b,Marshland,88297499
+Pteridophyta,GJ 536 b,Tundra,881251033
+Angiospermae,GJ 536 b,Tropical,1093348626
+Porifera,GJ 536 b,Alpine,1269113786
+Cnidaria,GJ 581 b,Nemoral,975683553
+Platyhelminthes,GJ 581 b,Temperate,358020644
+Nematoda,GJ 581 b,Boreal,200113012
+Annelida,GJ 581 c,Scarlet,1715142364
+Mollusca,GJ 581 c,Desert,155902510
+Arthropoda,GJ 581 c,Swamp,1255484961
+Echinodermata,GJ 581 e,Marshland,200400132
+Chordata,GJ 581 e,Tundra,49779819
+Bryophyta,GJ 581 e,Tropical,1687169895
+Pteridophyta,GJ 625 b,Alpine,897458763
+Angiospermae,GJ 625 b,Nemoral,582401464
+Porifera,GJ 625 b,Temperate,717189939
+Cnidaria,GJ 649 b,Boreal,1206208865
+Platyhelminthes,GJ 649 b,Scarlet,1504219210
+Nematoda,GJ 649 b,Desert,1201399565
+Annelida,GJ 667 C b,Swamp,615170219
+Mollusca,GJ 667 C b,Marshland,1350145816
+Arthropoda,GJ 667 C b,Tundra,1798827402
+Echinodermata,GJ 667 C c,Tropical,1030188989
+Chordata,GJ 667 C c,Alpine,1838414932
+Bryophyta,GJ 667 C c,Nemoral,805409243
+Pteridophyta,GJ 667 C e,Temperate,625629669
+Angiospermae,GJ 667 C e,Boreal,1867708850
+Porifera,GJ 667 C e,Scarlet,1351997239
+Cnidaria,GJ 667 C f,Desert,796620061
+Platyhelminthes,GJ 667 C f,Swamp,1142387258
+Nematoda,GJ 667 C f,Marshland,1269847339
+Annelida,GJ 667 C g,Tundra,1721144695
+Mollusca,GJ 667 C g,Tropical,919271208
+Arthropoda,GJ 667 C g,Alpine,151393857
+Echinodermata,GJ 674 b,Nemoral,1937430367
+Chordata,GJ 674 b,Temperate,1512730930
+Bryophyta,GJ 674 b,Boreal,1057896746
+Pteridophyta,GJ 676 A b,Scarlet,1890217509
+Angiospermae,GJ 676 A b,Desert,705053770
+Porifera,GJ 676 A b,Swamp,757764502
+Cnidaria,GJ 676 A c,Marshland,1926430623
+Platyhelminthes,GJ 676 A c,Tundra,1700598775
+Nematoda,GJ 676 A c,Tropical,1782593154
+Annelida,GJ 676 A d,Alpine,1100741746
+Mollusca,GJ 676 A d,Nemoral,155619565
+Arthropoda,GJ 676 A d,Temperate,460892707
+Echinodermata,GJ 676 A e,Boreal,1498986459
+Chordata,GJ 676 A e,Scarlet,2106217461
+Bryophyta,GJ 676 A e,Desert,371866870
+Pteridophyta,GJ 680 b,Swamp,990877480
+Angiospermae,GJ 680 b,Marshland,919527882
+Porifera,GJ 680 b,Tundra,2035863697
+Cnidaria,GJ 682 b,Tropical,1186681662
+Platyhelminthes,GJ 682 b,Alpine,8667111
+Nematoda,GJ 682 b,Nemoral,1930946750
+Annelida,GJ 682 c,Temperate,1305599130
+Mollusca,GJ 682 c,Boreal,1379400794
+Arthropoda,GJ 682 c,Scarlet,1564907876
+Echinodermata,GJ 685 b,Desert,811504002
+Chordata,GJ 685 b,Swamp,49776780
+Bryophyta,GJ 685 b,Marshland,824143953
+Pteridophyta,GJ 687 b,Tundra,1110071150
+Angiospermae,GJ 687 b,Tropical,21683623
+Porifera,GJ 687 b,Alpine,1227824934
+Cnidaria,GJ 687 c,Nemoral,973917848
+Platyhelminthes,GJ 687 c,Temperate,35989201
+Nematoda,GJ 687 c,Boreal,1824875300
+Annelida,GJ 720 A b,Scarlet,16786727
+Mollusca,GJ 720 A b,Desert,1113280869
+Arthropoda,GJ 720 A b,Swamp,461918927
+Echinodermata,GJ 724 b,Marshland,872678365
+Chordata,GJ 724 b,Tundra,1492598588
+Bryophyta,GJ 724 b,Tropical,1725723570
+Pteridophyta,GJ 740 b,Alpine,832076841
+Angiospermae,GJ 740 b,Nemoral,730602927
+Porifera,GJ 740 b,Temperate,2038710748
+Cnidaria,GJ 806 b,Boreal,771557784
+Platyhelminthes,GJ 806 b,Scarlet,1993185722
+Nematoda,GJ 806 b,Desert,918223617
+Annelida,GJ 806 c,Swamp,285851333
+Mollusca,GJ 806 c,Marshland,466909981
+Arthropoda,GJ 806 c,Tundra,1950933177
+Echinodermata,GJ 832 b,Tropical,294979213
+Chordata,GJ 832 b,Alpine,1495874239
+Bryophyta,GJ 832 b,Nemoral,407487103
+Pteridophyta,GJ 849 b,Temperate,550584104
+Angiospermae,GJ 849 b,Boreal,564711507
+Porifera,GJ 849 b,Scarlet,2037012977
+Cnidaria,GJ 849 c,Desert,1281873974
+Platyhelminthes,GJ 849 c,Swamp,1759327030
+Nematoda,GJ 849 c,Marshland,348110541
+Annelida,GJ 86 b,Tundra,271726298
+Mollusca,GJ 86 b,Tropical,142942103
+Arthropoda,GJ 86 b,Alpine,1609237962
+Echinodermata,GJ 876 b,Nemoral,679874493
+Chordata,GJ 876 b,Temperate,265758995
+Bryophyta,GJ 876 b,Boreal,704375922
+Pteridophyta,GJ 876 c,Scarlet,1848123968
+Angiospermae,GJ 876 c,Desert,2072173967
+Porifera,GJ 876 c,Swamp,656929057
+Cnidaria,GJ 876 d,Marshland,666485492
+Platyhelminthes,GJ 876 d,Tundra,2139976007
+Nematoda,GJ 876 d,Tropical,1137338693
+Annelida,GJ 876 e,Alpine,1202379367
+Mollusca,GJ 876 e,Nemoral,1587748408
+Arthropoda,GJ 876 e,Temperate,1984659994
+Echinodermata,GJ 887 b,Boreal,1332420095
+Chordata,GJ 887 b,Scarlet,1356159803
+Bryophyta,GJ 887 b,Desert,67077600
+Pteridophyta,GJ 887 c,Swamp,1838498180
+Angiospermae,GJ 887 c,Marshland,905440360
+Porifera,GJ 887 c,Tundra,664469476
+Cnidaria,GJ 896 A b,Tropical,245182944
+Platyhelminthes,GJ 896 A b,Alpine,1873530009
+Nematoda,GJ 896 A b,Nemoral,2117991707
+Annelida,GJ 900 b,Temperate,171911106
+Mollusca,GJ 900 b,Boreal,454068426
+Arthropoda,GJ 900 b,Scarlet,132968880
+Echinodermata,GJ 9066 c,Desert,366430807
+Chordata,GJ 9066 c,Swamp,1264617604
+Bryophyta,GJ 9066 c,Marshland,499997043
+Pteridophyta,GJ 9404 b,Tundra,634088008
+Angiospermae,GJ 9404 b,Tropical,1749657391
+Porifera,GJ 9404 b,Alpine,416190550
+Cnidaria,GJ 96 b,Nemoral,1043331845
+Platyhelminthes,GJ 96 b,Temperate,116387073
+Nematoda,GJ 96 b,Boreal,251035741
+Annelida,GJ 9689 b,Scarlet,2128933689
+Mollusca,GJ 9689 b,Desert,175056165
+Arthropoda,GJ 9689 b,Swamp,1090035618
+Echinodermata,GJ 9714 b,Marshland,1621412735
+Chordata,GJ 9714 b,Tundra,1827161332
+Bryophyta,GJ 9714 b,Tropical,932546286
+Pteridophyta,GJ 9827 b,Alpine,1599513419
+Angiospermae,GJ 9827 b,Nemoral,781495587
+Porifera,GJ 9827 b,Temperate,1698567186
+Cnidaria,GJ 9827 c,Boreal,83385614
+Platyhelminthes,GJ 9827 c,Scarlet,1059777435
+Nematoda,GJ 9827 c,Desert,978379671
+Annelida,GJ 9827 d,Swamp,1154290018
+Mollusca,GJ 9827 d,Marshland,1083624645
+Arthropoda,GJ 9827 d,Tundra,8139414
+Echinodermata,Gl 378 b,Tropical,834975318
+Chordata,Gl 378 b,Alpine,941277744
+Bryophyta,Gl 378 b,Nemoral,1079498448
+Pteridophyta,Gl 49 b,Temperate,180931436
+Angiospermae,Gl 49 b,Boreal,1482523759
+Porifera,Gl 49 b,Scarlet,501855530
+Cnidaria,Gl 686 b,Desert,44930627
+Platyhelminthes,Gl 686 b,Swamp,1181613737
+Nematoda,Gl 686 b,Marshland,606681977
+Annelida,Gliese 12 b,Tundra,381282994
+Mollusca,Gliese 12 b,Tropical,634053053
+Arthropoda,Gliese 12 b,Alpine,944025335
+Echinodermata,GPX-1 b,Nemoral,1910736951
+Chordata,GPX-1 b,Temperate,1498632592
+Bryophyta,GPX-1 b,Boreal,263784247
+Pteridophyta,GQ Lup b,Scarlet,842125731
+Angiospermae,GQ Lup b,Desert,360739610
+Porifera,GQ Lup b,Swamp,615803341
+Cnidaria,GSC 06214-00210 b,Marshland,1578106550
+Platyhelminthes,GSC 06214-00210 b,Tundra,1781198337
+Nematoda,GSC 06214-00210 b,Tropical,1052173271
+Annelida,GU Psc b,Alpine,147260815
+Mollusca,GU Psc b,Nemoral,484860384
+Arthropoda,GU Psc b,Temperate,289883944
+Echinodermata,HAT-P-1 b,Boreal,1797912897
+Chordata,HAT-P-1 b,Scarlet,488432806
+Bryophyta,HAT-P-11 b,Desert,1834424735
+Pteridophyta,HAT-P-11 b,Swamp,369179383
+Angiospermae,HAT-P-11 c,Marshland,65113470
+Porifera,HAT-P-11 c,Tundra,1268233851
+Cnidaria,HAT-P-12 b,Tropical,779418638
+Platyhelminthes,HAT-P-12 b,Alpine,1103784260
+Nematoda,HAT-P-13 b,Nemoral,129858088
+Annelida,HAT-P-13 b,Temperate,1847805973
+Mollusca,HAT-P-13 c,Boreal,692925565
+Arthropoda,HAT-P-13 c,Scarlet,1064880343
+Echinodermata,HAT-P-14 b,Desert,991880649
+Chordata,HAT-P-14 b,Swamp,2119442818
+Bryophyta,HAT-P-15 b,Marshland,304909945
+Pteridophyta,HAT-P-15 b,Tundra,1752616907
+Angiospermae,HAT-P-16 b,Tropical,774275310
+Porifera,HAT-P-16 b,Alpine,1224097926
+Cnidaria,HAT-P-17 b,Nemoral,1937124991
+Platyhelminthes,HAT-P-17 b,Temperate,150511068
+Nematoda,HAT-P-17 c,Boreal,418224793
+Annelida,HAT-P-17 c,Scarlet,323012842
+Mollusca,HAT-P-18 b,Desert,276074740
+Arthropoda,HAT-P-18 b,Swamp,862500587
+Echinodermata,HAT-P-19 b,Marshland,643082620
+Chordata,HAT-P-19 b,Tundra,1023678400
+Bryophyta,HAT-P-2 b,Tropical,526163827
+Pteridophyta,HAT-P-2 b,Alpine,2058779842
+Angiospermae,HAT-P-2 c,Nemoral,1298289367
+Porifera,HAT-P-2 c,Temperate,25128558
+Cnidaria,HAT-P-20 b,Boreal,759836070
+Platyhelminthes,HAT-P-20 b,Scarlet,1565678059
+Nematoda,HAT-P-21 b,Desert,1566059517
+Annelida,HAT-P-21 b,Swamp,1305080303
+Mollusca,HAT-P-22 b,Marshland,20017174
+Arthropoda,HAT-P-22 b,Tundra,1319858260
+Echinodermata,HAT-P-23 b,Tropical,759566744
+Chordata,HAT-P-23 b,Alpine,241827860
+Bryophyta,HAT-P-24 b,Nemoral,1161223258
+Pteridophyta,HAT-P-24 b,Temperate,124273163
+Angiospermae,HAT-P-25 b,Boreal,684064258
+Porifera,HAT-P-25 b,Scarlet,1024459284
+Cnidaria,HAT-P-26 b,Desert,582842137
+Platyhelminthes,HAT-P-26 b,Swamp,730429046
+Nematoda,HAT-P-27 b,Marshland,1681266796
+Annelida,HAT-P-27 b,Tundra,1721699646
+Mollusca,HAT-P-28 b,Tropical,320780433
+Arthropoda,HAT-P-28 b,Alpine,1795302725
+Echinodermata,HAT-P-29 b,Nemoral,1841383393
+Chordata,HAT-P-29 b,Temperate,132411691
+Bryophyta,HAT-P-3 b,Boreal,1360975483
+Pteridophyta,HAT-P-3 b,Scarlet,475168017
+Angiospermae,HAT-P-30 b,Desert,342263916
+Porifera,HAT-P-30 b,Swamp,1359801348
+Cnidaria,HAT-P-31 b,Marshland,1354815385
+Platyhelminthes,HAT-P-31 b,Tundra,1112909074
+Nematoda,HAT-P-32 b,Tropical,59451613
+Annelida,HAT-P-32 b,Alpine,355726529
+Mollusca,HAT-P-33 b,Nemoral,652570511
+Arthropoda,HAT-P-33 b,Temperate,611810205
+Echinodermata,HAT-P-34 b,Boreal,1238666119
+Chordata,HAT-P-34 b,Scarlet,26177751
+Bryophyta,HAT-P-35 b,Desert,2046948369
+Pteridophyta,HAT-P-35 b,Swamp,196831335
+Angiospermae,HAT-P-36 b,Marshland,559028822
+Porifera,HAT-P-36 b,Tundra,1430735768
+Cnidaria,HAT-P-37 b,Tropical,541287389
+Platyhelminthes,HAT-P-37 b,Alpine,740908750
+Nematoda,HAT-P-38 b,Nemoral,2134173456
+Annelida,HAT-P-38 b,Temperate,1530368830
+Mollusca,HAT-P-39 b,Boreal,2069920545
+Arthropoda,HAT-P-39 b,Scarlet,814289958
+Echinodermata,HAT-P-4 b,Desert,1594294551
+Chordata,HAT-P-4 b,Swamp,1067784897
+Bryophyta,HAT-P-40 b,Marshland,1651953934
+Pteridophyta,HAT-P-40 b,Tundra,1571101701
+Angiospermae,HAT-P-41 b,Tropical,975412471
+Porifera,HAT-P-41 b,Alpine,378410457
+Cnidaria,HAT-P-42 b,Nemoral,904311667
+Platyhelminthes,HAT-P-42 b,Temperate,1472904312
+Nematoda,HAT-P-43 b,Boreal,1366169916
+Annelida,HAT-P-43 b,Scarlet,59108375
+Mollusca,HAT-P-44 b,Desert,14074424
+Arthropoda,HAT-P-44 b,Swamp,1158431364
+Echinodermata,HAT-P-44 c,Marshland,1264917614
+Chordata,HAT-P-44 c,Tundra,1264623142
+Bryophyta,HAT-P-45 b,Tropical,310724729
+Pteridophyta,HAT-P-45 b,Alpine,1445533983
+Angiospermae,HAT-P-46 b,Nemoral,830405243
+Porifera,HAT-P-46 b,Temperate,1458526620
+Cnidaria,HAT-P-49 b,Boreal,1458899772
+Platyhelminthes,HAT-P-49 b,Scarlet,132744593
+Nematoda,HAT-P-5 b,Desert,624391606
+Annelida,HAT-P-5 b,Swamp,784416888
+Mollusca,HAT-P-50 b,Marshland,727443797
+Arthropoda,HAT-P-50 b,Tundra,1548144318
+Echinodermata,HAT-P-51 b,Tropical,1376196803
+Chordata,HAT-P-51 b,Alpine,1262486165
+Bryophyta,HAT-P-52 b,Nemoral,901432479
+Pteridophyta,HAT-P-52 b,Temperate,388683048
+Angiospermae,HAT-P-53 b,Boreal,382390124
+Porifera,HAT-P-53 b,Scarlet,330237872
+Cnidaria,HAT-P-54 b,Desert,1225643889
+Platyhelminthes,HAT-P-54 b,Swamp,1963763971
+Nematoda,HAT-P-55 b,Marshland,255828338
+Annelida,HAT-P-55 b,Tundra,1901906892
+Mollusca,HAT-P-56 b,Tropical,999815660
+Arthropoda,HAT-P-56 b,Alpine,1564164989
+Echinodermata,HAT-P-57 b,Nemoral,2068340593
+Chordata,HAT-P-57 b,Temperate,1286156839
+Bryophyta,HAT-P-58 b,Boreal,386312461
+Pteridophyta,HAT-P-58 b,Scarlet,70334783
+Angiospermae,HAT-P-59 b,Desert,919970061
+Porifera,HAT-P-59 b,Swamp,455033909
+Cnidaria,HAT-P-6 b,Marshland,1776010427
+Platyhelminthes,HAT-P-6 b,Tundra,223436878
+Nematoda,HAT-P-60 b,Tropical,1061233705
+Annelida,HAT-P-60 b,Alpine,1748624683
+Mollusca,HAT-P-61 b,Nemoral,188499493
+Arthropoda,HAT-P-61 b,Temperate,675806519
+Echinodermata,HAT-P-62 b,Boreal,855454965
+Chordata,HAT-P-62 b,Scarlet,533810689
+Bryophyta,HAT-P-63 b,Desert,110771963
+Pteridophyta,HAT-P-63 b,Swamp,781252309
+Angiospermae,HAT-P-64 b,Marshland,201952739
+Porifera,HAT-P-64 b,Tundra,2128005564
+Cnidaria,HAT-P-65 b,Tropical,1710102035
+Platyhelminthes,HAT-P-65 b,Alpine,251557297
+Nematoda,HAT-P-66 b,Nemoral,995799681
+Annelida,HAT-P-66 b,Temperate,92877104
+Mollusca,HAT-P-67 b,Boreal,721347186
+Arthropoda,HAT-P-67 b,Scarlet,1054149070
+Echinodermata,HAT-P-68 b,Desert,203423358
+Chordata,HAT-P-68 b,Swamp,1908071539
+Bryophyta,HAT-P-69 b,Marshland,1283514896
+Pteridophyta,HAT-P-69 b,Tundra,1926035029
+Angiospermae,HAT-P-7 b,Tropical,1395732494
+Porifera,HAT-P-7 b,Alpine,1378667580
+Cnidaria,HAT-P-70 b,Nemoral,1886519528
+Platyhelminthes,HAT-P-70 b,Temperate,1497067004
+Nematoda,HAT-P-8 b,Boreal,4736273
+Annelida,HAT-P-8 b,Scarlet,1874347478
+Mollusca,HAT-P-9 b,Desert,843274885
+Arthropoda,HAT-P-9 b,Swamp,1404675894
+Echinodermata,HATS-1 b,Marshland,691547160
+Chordata,HATS-1 b,Tundra,2031703568
+Bryophyta,HATS-10 b,Tropical,1132558608
+Pteridophyta,HATS-10 b,Alpine,569131570
+Angiospermae,HATS-11 b,Nemoral,905257339
+Porifera,HATS-11 b,Temperate,2098462662
+Cnidaria,HATS-12 b,Boreal,1640810784
+Platyhelminthes,HATS-12 b,Scarlet,68977039
+Nematoda,HATS-13 b,Desert,525193825
+Annelida,HATS-13 b,Swamp,1923256955
+Mollusca,HATS-14 b,Marshland,65141184
+Arthropoda,HATS-14 b,Tundra,627400248
+Echinodermata,HATS-15 b,Tropical,60115305
+Chordata,HATS-15 b,Alpine,378010200
+Bryophyta,HATS-16 b,Nemoral,1321321319
+Pteridophyta,HATS-16 b,Temperate,1975114418
+Angiospermae,HATS-17 b,Boreal,1991963501
+Porifera,HATS-17 b,Scarlet,1163381441
+Cnidaria,HATS-18 b,Desert,65408757
+Platyhelminthes,HATS-18 b,Swamp,709967849
+Nematoda,HATS-2 b,Marshland,964589678
+Annelida,HATS-2 b,Tundra,1819768284
+Mollusca,HATS-22 b,Tropical,1887287710
+Arthropoda,HATS-22 b,Alpine,1495482024
+Echinodermata,HATS-23 b,Nemoral,1480492264
+Chordata,HATS-23 b,Temperate,763785507
+Bryophyta,HATS-24 b,Boreal,1684499687
+Pteridophyta,HATS-24 b,Scarlet,1823577667
+Angiospermae,HATS-25 b,Desert,2071268047
+Porifera,HATS-25 b,Swamp,959670719
+Cnidaria,HATS-26 b,Marshland,286553106
+Platyhelminthes,HATS-26 b,Tundra,135751878
+Nematoda,HATS-27 b,Tropical,511981968
+Annelida,HATS-27 b,Alpine,1855002537
+Mollusca,HATS-28 b,Nemoral,2104955039
+Arthropoda,HATS-28 b,Temperate,36292741
+Echinodermata,HATS-29 b,Boreal,1825400832
+Chordata,HATS-29 b,Scarlet,1036942132
+Bryophyta,HATS-3 b,Desert,154068039
+Pteridophyta,HATS-3 b,Swamp,1815607173
+Angiospermae,HATS-30 b,Marshland,1366913740
+Porifera,HATS-30 b,Tundra,563194705
+Cnidaria,HATS-31 b,Tropical,671150479
+Platyhelminthes,HATS-31 b,Alpine,298785437
+Nematoda,HATS-32 b,Nemoral,395207030
+Annelida,HATS-32 b,Temperate,591885263
+Mollusca,HATS-33 b,Boreal,1255037636
+Arthropoda,HATS-33 b,Scarlet,1072609535
+Echinodermata,HATS-34 b,Desert,1528895061
+Chordata,HATS-34 b,Swamp,727326118
+Bryophyta,HATS-35 b,Marshland,764514053
+Pteridophyta,HATS-35 b,Tundra,790921410
+Angiospermae,HATS-36 b,Tropical,1983575742
+Porifera,HATS-36 b,Alpine,1078199581
+Cnidaria,HATS-37 A b,Nemoral,661672208
+Platyhelminthes,HATS-37 A b,Temperate,908554869
+Nematoda,HATS-38 b,Boreal,1760871039
+Annelida,HATS-38 b,Scarlet,1377155152
+Mollusca,HATS-39 b,Desert,174501006
+Arthropoda,HATS-39 b,Swamp,1719772280
+Echinodermata,HATS-4 b,Marshland,1562898235
+Chordata,HATS-4 b,Tundra,847867188
+Bryophyta,HATS-40 b,Tropical,1007359229
+Pteridophyta,HATS-40 b,Alpine,1714444086
+Angiospermae,HATS-41 b,Nemoral,440548312
+Porifera,HATS-41 b,Temperate,583802792
+Cnidaria,HATS-42 b,Boreal,316794605
+Platyhelminthes,HATS-42 b,Scarlet,813854576
+Nematoda,HATS-43 b,Desert,731821786
+Annelida,HATS-43 b,Swamp,1505654801
+Mollusca,HATS-44 b,Marshland,537397891
+Arthropoda,HATS-44 b,Tundra,1788751290
+Echinodermata,HATS-45 b,Tropical,2135000010
+Chordata,HATS-45 b,Alpine,1675842454
+Bryophyta,HATS-46 b,Nemoral,1413439930
+Pteridophyta,HATS-46 b,Temperate,1277062799
+Angiospermae,HATS-47 b,Boreal,722673276
+Porifera,HATS-47 b,Scarlet,740115948
+Cnidaria,HATS-48 A b,Desert,1281961054
+Platyhelminthes,HATS-48 A b,Swamp,521976599
+Nematoda,HATS-49 b,Marshland,66635851
+Annelida,HATS-49 b,Tundra,173370888
+Mollusca,HATS-5 b,Tropical,896090954
+Arthropoda,HATS-5 b,Alpine,881348373
+Echinodermata,HATS-50 b,Nemoral,919821948
+Chordata,HATS-50 b,Temperate,410972745
+Bryophyta,HATS-51 b,Boreal,351167899
+Pteridophyta,HATS-51 b,Scarlet,2075080229
+Angiospermae,HATS-52 b,Desert,550428281
+Porifera,HATS-52 b,Swamp,322427869
+Cnidaria,HATS-53 b,Marshland,726471490
+Platyhelminthes,HATS-53 b,Tundra,1684712855
+Nematoda,HATS-54 b,Tropical,1730591408
+Annelida,HATS-54 b,Alpine,1065323573
+Mollusca,HATS-55 b,Nemoral,1038839903
+Arthropoda,HATS-55 b,Temperate,2042086647
+Echinodermata,HATS-56 b,Boreal,1780338028
+Chordata,HATS-56 b,Scarlet,1381713375
+Bryophyta,HATS-57 b,Desert,1171938550
+Pteridophyta,HATS-57 b,Swamp,1861295624
+Angiospermae,HATS-58 A b,Marshland,2046423912
+Porifera,HATS-58 A b,Tundra,99260319
+Cnidaria,HATS-59 b,Tropical,430962383
+Platyhelminthes,HATS-59 b,Alpine,1635741994
+Nematoda,HATS-59 c,Nemoral,982463503
+Annelida,HATS-59 c,Temperate,283054404
+Mollusca,HATS-6 b,Boreal,1011093063
+Arthropoda,HATS-6 b,Scarlet,1612433834
+Echinodermata,HATS-60 b,Desert,952478695
+Chordata,HATS-60 b,Swamp,1297052982
+Bryophyta,HATS-61 b,Marshland,137030510
+Pteridophyta,HATS-61 b,Tundra,95222905
+Angiospermae,HATS-62 b,Tropical,1628033428
+Porifera,HATS-62 b,Alpine,511605414
+Cnidaria,HATS-63 b,Nemoral,712976408
+Platyhelminthes,HATS-63 b,Temperate,2045232997
+Nematoda,HATS-64 b,Boreal,1322300451
+Annelida,HATS-64 b,Scarlet,1665642390
+Mollusca,HATS-65 b,Desert,662642592
+Arthropoda,HATS-65 b,Swamp,839462918
+Echinodermata,HATS-66 b,Marshland,257141512
+Chordata,HATS-66 b,Tundra,365719563
+Bryophyta,HATS-67 b,Tropical,1343539158
+Pteridophyta,HATS-67 b,Alpine,1080269577
+Angiospermae,HATS-68 b,Nemoral,534157892
+Porifera,HATS-68 b,Temperate,1916037295
+Cnidaria,HATS-69 b,Boreal,778655878
+Platyhelminthes,HATS-69 b,Scarlet,1502934358
+Nematoda,HATS-7 b,Desert,2079650272
+Annelida,HATS-7 b,Swamp,1232210221
+Mollusca,HATS-70 b,Marshland,1855453068
+Arthropoda,HATS-70 b,Tundra,1820498812
+Echinodermata,HATS-71 b,Tropical,2109815446
+Chordata,HATS-71 b,Alpine,1016014881
+Bryophyta,HATS-72 b,Nemoral,244370070
+Pteridophyta,HATS-72 b,Temperate,966483614
+Angiospermae,HATS-74 A b,Boreal,250476354
+Porifera,HATS-74 A b,Scarlet,161369613
+Cnidaria,HATS-75 b,Desert,244267928
+Platyhelminthes,HATS-75 b,Swamp,334450430
+Nematoda,HATS-76 b,Marshland,1140535362
+Annelida,HATS-76 b,Tundra,178952573
+Mollusca,HATS-77 b,Tropical,799833230
+Arthropoda,HATS-77 b,Alpine,1194595004
+Echinodermata,HATS-8 b,Nemoral,1951442380
+Chordata,HATS-8 b,Temperate,1642096239
+Bryophyta,HATS-9 b,Boreal,1111923329
+Pteridophyta,HATS-9 b,Scarlet,1550790272
+Angiospermae,HD 100546 b,Desert,898508464
+Porifera,HD 100546 b,Swamp,389468505
+Cnidaria,HD 100655 b,Marshland,683866478
+Platyhelminthes,HD 100655 b,Tundra,151021382
+Nematoda,HD 100777 b,Tropical,1794150761
+Annelida,HD 100777 b,Alpine,962484190
+Mollusca,HD 101581 b,Nemoral,386613430
+Arthropoda,HD 101581 b,Temperate,1298003641
+Echinodermata,HD 101581 c,Boreal,988279237
+Chordata,HD 101581 c,Scarlet,2094935484
+Bryophyta,HD 10180 c,Desert,661824084
+Pteridophyta,HD 10180 c,Swamp,818450867
+Angiospermae,HD 10180 d,Marshland,574129018
+Porifera,HD 10180 d,Tundra,2034701423
+Cnidaria,HD 10180 e,Tropical,1454618377
+Platyhelminthes,HD 10180 e,Alpine,133688304
+Nematoda,HD 10180 f,Nemoral,1701724925
+Annelida,HD 10180 f,Temperate,427450791
+Mollusca,HD 10180 g,Boreal,610887026
+Arthropoda,HD 10180 g,Scarlet,2141090510
+Echinodermata,HD 10180 h,Desert,1675992830
+Chordata,HD 10180 h,Swamp,1028679912
+Bryophyta,HD 101930 b,Marshland,1227467551
+Pteridophyta,HD 101930 b,Tundra,337932169
+Angiospermae,HD 102117 b,Tropical,1148842162
+Porifera,HD 102117 b,Alpine,2137227340
+Cnidaria,HD 102195 b,Nemoral,1135821108
+Platyhelminthes,HD 102195 b,Temperate,397922866
+Nematoda,HD 102272 b,Boreal,544485430
+Annelida,HD 102272 b,Scarlet,1700277656
+Mollusca,HD 102329 b,Desert,79846074
+Arthropoda,HD 102329 b,Swamp,597213442
+Echinodermata,HD 102329 c,Marshland,8276128
+Chordata,HD 102329 c,Tundra,637351305
+Bryophyta,HD 102365 b,Tropical,2142230077
+Pteridophyta,HD 102365 b,Alpine,1625883901
+Angiospermae,HD 102843 b,Nemoral,1354637820
+Porifera,HD 102843 b,Temperate,330030656
+Cnidaria,HD 102956 b,Boreal,335510386
+Platyhelminthes,HD 102956 b,Scarlet,1253751330
+Nematoda,HD 103197 b,Desert,532022326
+Annelida,HD 103197 b,Swamp,191299722
+Mollusca,HD 103720 b,Marshland,501992437
+Arthropoda,HD 103720 b,Tundra,365336879
+Echinodermata,HD 103774 b,Tropical,1736990148
+Chordata,HD 103774 b,Alpine,2026232296
+Bryophyta,HD 103891 b,Nemoral,584667222
+Pteridophyta,HD 103891 b,Temperate,1082838182
+Angiospermae,HD 103949 b,Boreal,1514735925
+Porifera,HD 103949 b,Scarlet,869642018
+Cnidaria,HD 104067 b,Desert,19113901
+Platyhelminthes,HD 104067 b,Swamp,1979889231
+Nematoda,HD 104067 c,Marshland,1773153224
+Annelida,HD 104067 c,Tundra,696887568
+Mollusca,HD 10442 b,Tropical,730480800
+Arthropoda,HD 10442 b,Alpine,717102011
+Echinodermata,HD 104985 b,Nemoral,1414062395
+Chordata,HD 104985 b,Temperate,931302538
+Bryophyta,HD 105618 b,Boreal,1013801836
+Pteridophyta,HD 105618 b,Scarlet,1528851029
+Angiospermae,HD 105618 c,Desert,147491709
+Porifera,HD 105618 c,Swamp,1805341621
+Cnidaria,HD 105779 b,Marshland,584397620
+Platyhelminthes,HD 105779 b,Tundra,752042836
+Nematoda,HD 106252 b,Tropical,2143461389
+Annelida,HD 106252 b,Alpine,857392121
+Mollusca,HD 106270 b,Nemoral,762808130
+Arthropoda,HD 106270 b,Temperate,917347882
+Echinodermata,HD 106315 b,Boreal,657903519
+Chordata,HD 106315 b,Scarlet,151340913
+Bryophyta,HD 106315 c,Desert,1131060614
+Pteridophyta,HD 106315 c,Swamp,447483069
+Angiospermae,HD 10647 b,Marshland,412651060
+Porifera,HD 10647 b,Tundra,1979275966
+Cnidaria,HD 106515 A b,Tropical,326169990
+Platyhelminthes,HD 106515 A b,Alpine,2036408734
+Nematoda,HD 106906 b,Nemoral,949629918
+Annelida,HD 106906 b,Temperate,1679751108
+Mollusca,HD 10697 b,Boreal,1023969656
+Arthropoda,HD 10697 b,Scarlet,141357106
+Echinodermata,HD 107148 b,Desert,687871708
+Chordata,HD 107148 b,Swamp,820278514
+Bryophyta,HD 107148 c,Marshland,1200338517
+Pteridophyta,HD 107148 c,Tundra,340263241
+Angiospermae,HD 108147 b,Tropical,1459256129
+Porifera,HD 108147 b,Alpine,1507656611
+Cnidaria,HD 108202 b,Nemoral,310262593
+Platyhelminthes,HD 108202 b,Temperate,1628126715
+Nematoda,HD 108236 b,Boreal,505082943
+Annelida,HD 108236 b,Scarlet,713127353
+Mollusca,HD 108236 c,Desert,1929331164
+Arthropoda,HD 108236 c,Swamp,1585845797
+Echinodermata,HD 108236 d,Marshland,2144621368
+Chordata,HD 108236 d,Tundra,1312624056
+Bryophyta,HD 108236 e,Tropical,290185744
+Pteridophyta,HD 108236 e,Alpine,1708730167
+Angiospermae,HD 108236 f,Nemoral,1393662711
+Porifera,HD 108236 f,Temperate,1129242581
+Cnidaria,HD 108341 b,Boreal,1950317651
+Platyhelminthes,HD 108341 b,Scarlet,1728501188
+Nematoda,HD 108863 b,Desert,1785145217
+Annelida,HD 108863 b,Swamp,609389351
+Mollusca,HD 108874 b,Marshland,1961905001
+Arthropoda,HD 108874 b,Tundra,1303658972
+Echinodermata,HD 108874 c,Tropical,10220919
+Chordata,HD 108874 c,Alpine,1909185601
+Bryophyta,HD 109246 b,Nemoral,297224129
+Pteridophyta,HD 109246 b,Temperate,1291135028
+Angiospermae,HD 109271 b,Boreal,1842158051
+Porifera,HD 109271 b,Scarlet,602199875
+Cnidaria,HD 109271 c,Desert,2136536402
+Platyhelminthes,HD 109271 c,Swamp,731663384
+Nematoda,HD 109286 b,Marshland,1572607435
+Annelida,HD 109286 b,Tundra,1227718343
+Mollusca,HD 109749 b,Tropical,307978543
+Arthropoda,HD 109749 b,Alpine,985419219
+Echinodermata,HD 10975 b,Nemoral,1408782884
+Chordata,HD 10975 b,Temperate,1376390789
+Bryophyta,HD 109833 b,Boreal,1859879710
+Pteridophyta,HD 109833 b,Scarlet,611691512
+Angiospermae,HD 109833 c,Desert,883566888
+Porifera,HD 109833 c,Swamp,1560700431
+Cnidaria,HD 109988 b,Marshland,1642903173
+Platyhelminthes,HD 109988 b,Tundra,987330365
+Nematoda,HD 89744 b,Tropical,88882783
+Annelida,HD 89744 b,Alpine,489949680
+Mollusca,HD 89839 b,Nemoral,683362754
+Arthropoda,HD 89839 b,Temperate,574373793
+Echinodermata,HD 90156 b,Boreal,136670395
+Chordata,HD 90156 b,Scarlet,1474858151
+Bryophyta,HD 9174 b,Desert,531339583
+Pteridophyta,HD 9174 b,Swamp,236773930
+Angiospermae,HD 92788 b,Marshland,1518800899
+Porifera,HD 92788 b,Tundra,1306595367
+Cnidaria,HD 92788 c,Tropical,767585248
+Platyhelminthes,HD 92788 c,Alpine,462378970
+Nematoda,HD 93083 b,Nemoral,1138437100
+Annelida,HD 93083 b,Temperate,664143201
+Mollusca,HD 93351 b,Boreal,1348401863
+Arthropoda,HD 93351 b,Scarlet,2136699219
+Echinodermata,HD 93351 c,Desert,1982296927
+Chordata,HD 93351 c,Swamp,229996629
+Bryophyta,HD 93385 b,Marshland,323933630
+Pteridophyta,HD 93385 b,Tundra,1440891698
+Angiospermae,HD 93385 c,Tropical,2102408874
+Porifera,HD 93385 c,Alpine,1221600010
+Cnidaria,HD 93385 d,Nemoral,1535637229
+Platyhelminthes,HD 93385 d,Temperate,1120511741
+Nematoda,HD 93963 A b,Boreal,1668703822
+Annelida,HD 93963 A b,Scarlet,413920133
+Mollusca,HD 93963 A c,Desert,116865172
+Arthropoda,HD 93963 A c,Swamp,2103563585
+Echinodermata,HD 9446 b,Marshland,1794186506
+Chordata,HD 9446 b,Tundra,126883153
+Bryophyta,HD 9446 c,Tropical,1975003120
+Pteridophyta,HD 9446 c,Alpine,1456664561
+Angiospermae,HD 94771 b,Nemoral,688391983
+Porifera,HD 94771 b,Temperate,169403031
+Cnidaria,HD 94834 b,Boreal,1335718661
+Platyhelminthes,HD 94834 b,Scarlet,1308071010
+Nematoda,HD 95086 b,Desert,1232440754
+Annelida,HD 95086 b,Swamp,1328843698
+Mollusca,HD 95089 b,Marshland,2079895604
+Arthropoda,HD 95089 b,Tundra,1284020826
+Echinodermata,HD 95089 c,Tropical,680161668
+Chordata,HD 95089 c,Alpine,1176390510
+Bryophyta,HD 95127 b,Nemoral,850407536
+Pteridophyta,HD 95127 b,Temperate,326803889
+Angiospermae,HD 95338 b,Boreal,670129841
+Porifera,HD 95338 b,Scarlet,461099874
+Cnidaria,HD 95544 b,Desert,1600611994
+Platyhelminthes,HD 95544 b,Swamp,2003795670
+Nematoda,HD 95735 c,Marshland,495153923
+Annelida,HD 95735 c,Tundra,604306533
+Mollusca,HD 95872 b,Tropical,394827839
+Arthropoda,HD 95872 b,Alpine,44933908
+Echinodermata,HD 96063 b,Nemoral,1595431759
+Chordata,HD 96063 b,Temperate,703544449
+Bryophyta,HD 96127 b,Boreal,705833612
+Pteridophyta,HD 96127 b,Scarlet,1799620597
+Angiospermae,HD 96167 b,Desert,935621625
+Porifera,HD 96167 b,Swamp,1262268873
+Cnidaria,HD 96700 b,Marshland,1254121277
+Platyhelminthes,HD 96700 b,Tundra,740534402
+Nematoda,HD 96700 c,Tropical,395554951
+Annelida,HD 96700 c,Alpine,94488320
+Mollusca,HD 96700 d,Nemoral,839752356
+Arthropoda,HD 96700 d,Temperate,1414712355
+Echinodermata,HD 96992 b,Boreal,1215943435
+Chordata,HD 96992 b,Scarlet,2051579793
+Bryophyta,HD 97037 b,Desert,980407965
+Pteridophyta,HD 97037 b,Swamp,1675564485
+Angiospermae,HD 97048 b,Marshland,836868922
+Porifera,HD 97048 b,Tundra,2110581917
+Cnidaria,HD 97658 b,Tropical,1424212545
+Platyhelminthes,HD 97658 b,Alpine,1002051354
+Nematoda,HD 98219 b,Nemoral,857229433
+Annelida,HD 98219 b,Temperate,982686957
+Mollusca,HD 98649 b,Boreal,776840661
+Arthropoda,HD 98649 b,Scarlet,1188490658
+Echinodermata,HD 98736 b,Desert,974697457
+Chordata,HD 98736 b,Swamp,223742140
+Bryophyta,HD 99109 b,Marshland,1484070573
+Pteridophyta,HD 99109 b,Tundra,1929784465
+Angiospermae,HD 99283 b,Tropical,1420553492
+Porifera,HD 99283 b,Alpine,118213917
+Cnidaria,HD 99492 b,Nemoral,1837189855
+Platyhelminthes,HD 99492 b,Temperate,426920511
+Nematoda,HD 99492 c,Boreal,737796238
+Annelida,HD 99492 c,Scarlet,703995190
+Mollusca,HD 99706 b,Desert,802597316
+Arthropoda,HD 99706 b,Swamp,1151652747
+Echinodermata,HD 99706 c,Marshland,641108701
+Chordata,HD 99706 c,Tundra,1757409177
+Bryophyta,HIP 105854 b,Tropical,634305482
+Pteridophyta,HIP 105854 b,Alpine,1220276501
+Angiospermae,HIP 107772 b,Nemoral,1151432731
+Porifera,HIP 107772 b,Temperate,1799312900
+Cnidaria,HIP 107773 b,Boreal,2034250574
+Platyhelminthes,HIP 107773 b,Scarlet,318895153
+Nematoda,HIP 109384 b,Desert,1215576594
+Annelida,HIP 109384 b,Swamp,757895247
+Mollusca,HIP 109600 b,Marshland,1052429584
+Arthropoda,HIP 109600 b,Tundra,643899424
+Echinodermata,HIP 113103 b,Tropical,804669601
+Chordata,HIP 113103 b,Alpine,1516420466
+Bryophyta,HIP 113103 c,Nemoral,332601744
+Pteridophyta,HIP 113103 c,Temperate,783114441
+Angiospermae,HIP 114933 b,Boreal,1004515176
+Porifera,HIP 114933 b,Scarlet,1590690942
+Cnidaria,HIP 116454 b,Desert,1353906159
+Platyhelminthes,HIP 116454 b,Swamp,774562427
+Nematoda,HIP 12961 b,Marshland,1017193024
+Annelida,HIP 12961 b,Tundra,51924389
+Mollusca,HIP 14810 b,Tropical,961838036
+Arthropoda,HIP 14810 b,Alpine,1735106165
+Echinodermata,HIP 14810 c,Nemoral,180509341
+Chordata,HIP 14810 c,Temperate,796087953
+Bryophyta,HIP 14810 d,Boreal,945811935
+Pteridophyta,HIP 14810 d,Scarlet,182700511
+Angiospermae,HIP 19976 b,Desert,1559150403
+Porifera,HIP 19976 b,Swamp,602553442
+Cnidaria,HIP 21152 b,Marshland,1343064789
+Platyhelminthes,HIP 21152 b,Tundra,1060956434
+Nematoda,HIP 29442 c,Tropical,1177278932
+Annelida,HIP 29442 c,Alpine,299958088
+Mollusca,HIP 29442 d,Nemoral,2145484400
+Arthropoda,HIP 29442 d,Temperate,1312681888
+Echinodermata,HIP 34222 b,Boreal,1815573749
+Chordata,HIP 34222 b,Scarlet,708631330
+Bryophyta,HIP 35173 b,Desert,249216013
+Pteridophyta,HIP 35173 b,Swamp,574164855
+Angiospermae,HIP 35965 b,Marshland,241886640
+Porifera,HIP 35965 b,Tundra,1256541820
+Cnidaria,HIP 38594 b,Tropical,862544490
+Platyhelminthes,HIP 38594 b,Alpine,527708215
+Nematoda,HIP 38594 c,Nemoral,1048389976
+Annelida,HIP 38594 c,Temperate,149055410
+Mollusca,HIP 39017 b,Boreal,249050618
+Arthropoda,HIP 39017 b,Scarlet,1338560877
+Echinodermata,HIP 41378 b,Desert,2089593444
+Chordata,HIP 41378 b,Swamp,1042909750
+Bryophyta,HIP 41378 c,Marshland,952260549
+Pteridophyta,HIP 41378 c,Tundra,1723028749
+Angiospermae,HIP 41378 d,Tropical,1710332341
+Porifera,HIP 41378 d,Alpine,929462045
+Cnidaria,HIP 41378 e,Nemoral,1257640124
+Platyhelminthes,HIP 41378 e,Temperate,1247834100
+Nematoda,HIP 41378 f,Boreal,1426969524
+Annelida,HIP 41378 f,Scarlet,1306867478
+Mollusca,HIP 4845 b,Desert,2092985137
+Arthropoda,HIP 4845 b,Swamp,1907118057
+Echinodermata,HIP 48714 b,Marshland,696030732
+Chordata,HIP 48714 b,Tundra,547951762
+Bryophyta,HIP 5158 b,Tropical,27513165
+Pteridophyta,HIP 5158 b,Alpine,27737197
+Angiospermae,HIP 5158 c,Nemoral,1948558994
+Porifera,HIP 5158 c,Temperate,1122656890
+Cnidaria,HIP 54373 b,Boreal,654255384
+Platyhelminthes,HIP 54373 b,Scarlet,764518362
+Nematoda,HIP 54373 c,Desert,1083435704
+Annelida,HIP 54373 c,Swamp,1447787083
+Mollusca,HIP 54597 b,Marshland,1432167682
+Arthropoda,HIP 54597 b,Tundra,389955520
+Echinodermata,HIP 55507 b,Tropical,181590319
+Chordata,HIP 55507 b,Alpine,592908459
+Bryophyta,HIP 56640 b,Nemoral,1107650997
+Pteridophyta,HIP 56640 b,Temperate,1612426237
+Angiospermae,HIP 57274 b,Boreal,240041782
+Porifera,HIP 57274 b,Scarlet,1707110410
+Cnidaria,HIP 57274 c,Desert,933691744
+Platyhelminthes,HIP 57274 c,Swamp,1820872303
+Nematoda,HIP 57274 d,Marshland,589837446
+Annelida,HIP 57274 d,Tundra,40370023
+Mollusca,HIP 5763 b,Tropical,236740253
+Arthropoda,HIP 5763 b,Alpine,929693128
+Echinodermata,HIP 63242 b,Nemoral,338828996
+Chordata,HIP 63242 b,Temperate,1732168437
+Bryophyta,HIP 65 A b,Boreal,792960328
+Pteridophyta,HIP 65 A b,Scarlet,1634508173
+Angiospermae,HIP 65407 b,Desert,375950078
+Porifera,HIP 65407 b,Swamp,1254988279
+Cnidaria,HIP 65407 c,Marshland,671522277
+Platyhelminthes,HIP 65407 c,Tundra,1344914888
+Nematoda,HIP 65426 b,Tropical,1845150423
+Annelida,HIP 65426 b,Alpine,586422583
+Mollusca,HIP 65891 b,Nemoral,2145925716
+Arthropoda,HIP 65891 b,Temperate,478111335
+Echinodermata,HIP 66074 b,Boreal,1149921787
+Chordata,HIP 66074 b,Scarlet,575285460
+Bryophyta,HIP 67522 b,Desert,219913578
+Pteridophyta,HIP 67522 b,Swamp,724048285
+Angiospermae,HIP 67522 c,Marshland,1602386901
+Porifera,HIP 67522 c,Tundra,1398188118
+Cnidaria,HIP 67537 b,Tropical,1935686778
+Platyhelminthes,HIP 67537 b,Alpine,961473490
+Nematoda,HIP 67851 b,Nemoral,571149899
+Annelida,HIP 67851 b,Temperate,2022120640
+Mollusca,HIP 67851 c,Boreal,1662457685
+Arthropoda,HIP 67851 c,Scarlet,559135035
+Echinodermata,HIP 70849 b,Desert,1952595801
+Chordata,HIP 70849 b,Swamp,387065753
+Bryophyta,HIP 71135 b,Marshland,1102184902
+Pteridophyta,HIP 71135 b,Tundra,1821145204
+Angiospermae,HIP 74890 b,Tropical,1352161382
+Porifera,HIP 74890 b,Alpine,587678806
+Cnidaria,HIP 75092 b,Nemoral,172287040
+Platyhelminthes,HIP 75092 b,Temperate,1420723422
+Nematoda,HIP 77900 b,Boreal,387742122
+Annelida,HIP 77900 b,Scarlet,222204550
+Mollusca,HIP 78530 b,Desert,525533334
+Arthropoda,HIP 78530 b,Swamp,1609530658
+Echinodermata,HIP 79098 AB b,Marshland,1260522583
+Chordata,HIP 79098 AB b,Tundra,877852077
+Bryophyta,HIP 79431 b,Tropical,1448234223
+Pteridophyta,HIP 79431 b,Alpine,2103689962
+Angiospermae,HIP 81208 C b,Nemoral,1651966455
+Porifera,HIP 81208 C b,Temperate,470778613
+Cnidaria,HIP 8152 b,Boreal,350433453
+Platyhelminthes,HIP 8152 b,Scarlet,1365831904
+Nematoda,HIP 8152 c,Desert,266488392
+Annelida,HIP 8152 c,Swamp,1779214327
+Mollusca,HIP 8541 b,Marshland,745799
+Arthropoda,HIP 8541 b,Tundra,1395753220
+Echinodermata,HIP 86221 b,Tropical,86951668
+Chordata,HIP 86221 b,Alpine,780535577
+Bryophyta,HIP 90988 b,Nemoral,1507268611
+Pteridophyta,HIP 90988 b,Temperate,972668766
+Angiospermae,HIP 91258 b,Boreal,1046966050
+Porifera,HIP 91258 b,Scarlet,336912697
+Cnidaria,HIP 94235 b,Desert,785171892
+Platyhelminthes,HIP 94235 b,Swamp,2089249356
+Nematoda,HIP 948 b,Marshland,1759522029
+Annelida,HIP 948 b,Tundra,1072853262
+Mollusca,HIP 9618 b,Tropical,76785416
+Arthropoda,HIP 9618 b,Alpine,405872266
+Echinodermata,HIP 9618 c,Nemoral,689546270
+Chordata,HIP 9618 c,Temperate,1421769819
+Bryophyta,HIP 97166 b,Boreal,1594522572
+Pteridophyta,HIP 97166 b,Scarlet,815357726
+Angiospermae,HIP 97166 c,Desert,544171890
+Porifera,HIP 97166 c,Swamp,1842302496
+Cnidaria,HIP 97233 b,Marshland,804130547
+Platyhelminthes,HIP 97233 b,Tundra,448416524
+Nematoda,HIP 99770 b,Tropical,991377562
+Annelida,HIP 99770 b,Alpine,1385852031
+Mollusca,HN Lib b,Nemoral,1142241205
+Arthropoda,HN Lib b,Temperate,251934608
+Echinodermata,HN Peg b,Boreal,321754510
+Chordata,HN Peg b,Scarlet,1776648533
+Bryophyta,HR 2562 b,Desert,562669917
+Pteridophyta,HR 2562 b,Swamp,2022222858
+Angiospermae,HR 5183 b,Marshland,1683654214
+Porifera,HR 5183 b,Tundra,1124849856
+Cnidaria,HR 810 b,Tropical,195867265
+Platyhelminthes,HR 810 b,Alpine,1129450249
+Nematoda,HR 858 b,Nemoral,690151398
+Annelida,HR 858 b,Temperate,15473180
+Mollusca,HR 858 c,Boreal,557354018
+Arthropoda,HR 858 c,Scarlet,1533046126
+Echinodermata,HR 858 d,Desert,1518115851
+Chordata,HR 858 d,Swamp,429052538
+Bryophyta,HR 8799 b,Marshland,552130023
+Pteridophyta,HR 8799 b,Tundra,360218940
+Angiospermae,HR 8799 c,Tropical,1007155975
+Porifera,HR 8799 c,Alpine,877940020
+Cnidaria,HR 8799 d,Nemoral,1308336892
+Platyhelminthes,HR 8799 d,Temperate,1138632389
+Nematoda,HR 8799 e,Boreal,2012597481
+Annelida,HR 8799 e,Scarlet,1743232243
+Mollusca,HS Psc b,Desert,532210614
+Arthropoda,HS Psc b,Swamp,1516055536
+Echinodermata,HU Aqr AB b,Marshland,1662164220
+Chordata,HU Aqr AB b,Tundra,1313336598
+Bryophyta,HU Aqr AB c,Tropical,956394121
+Pteridophyta,HU Aqr AB c,Alpine,12946347
+Angiospermae,IC 4651 9122 b,Nemoral,1334473810
+Porifera,IC 4651 9122 b,Temperate,1867642169
+Cnidaria,IRAS 04125+2902 b,Boreal,1596583116
+Platyhelminthes,IRAS 04125+2902 b,Scarlet,354835720
+Nematoda,ITG 15 b,Desert,1986716965
+Annelida,ITG 15 b,Swamp,1267524416
+Mollusca,K2-10 b,Marshland,1313718455
+Arthropoda,K2-10 b,Tundra,2039575588
+Echinodermata,K2-100 b,Tropical,1074502340
+Chordata,K2-100 b,Alpine,2078537709
+Bryophyta,K2-101 b,Nemoral,991099472
+Pteridophyta,K2-101 b,Temperate,1616672871
+Angiospermae,K2-102 b,Boreal,1777045325
+Porifera,K2-102 b,Scarlet,68774353
+Cnidaria,K2-104 b,Desert,206498676
+Platyhelminthes,K2-104 b,Swamp,1796126982
+Nematoda,K2-105 b,Marshland,1152145809
+Annelida,K2-105 b,Tundra,1479025735
+Mollusca,K2-107 b,Tropical,1700767469
+Arthropoda,K2-107 b,Alpine,1166193830
+Echinodermata,K2-108 b,Nemoral,1421673643
+Chordata,K2-108 b,Temperate,94819024
+Bryophyta,K2-11 b,Boreal,742706068
+Pteridophyta,K2-11 b,Scarlet,1944684451
+Angiospermae,K2-110 b,Desert,1546376782
+Porifera,K2-110 b,Swamp,764410084
+Cnidaria,K2-111 b,Marshland,1418963357
+Platyhelminthes,K2-111 b,Tundra,785639101
+Nematoda,K2-111 c,Tropical,1600722259
+Annelida,K2-111 c,Alpine,2118902945
+Mollusca,K2-113 b,Nemoral,1204042085
+Arthropoda,K2-113 b,Temperate,1607931612
+Echinodermata,K2-114 b,Boreal,1360595664
+Chordata,K2-114 b,Scarlet,1840057404
+Bryophyta,K2-115 b,Desert,41663566
+Pteridophyta,K2-115 b,Swamp,860976137
+Angiospermae,K2-116 b,Marshland,1532848611
+Porifera,K2-116 b,Tundra,1362549026
+Cnidaria,K2-117 b,Tropical,882278792
+Platyhelminthes,K2-117 b,Alpine,911469955
+Nematoda,K2-117 c,Nemoral,1884282090
+Annelida,K2-117 c,Temperate,1817532756
+Mollusca,K2-118 b,Boreal,1236646714
+Arthropoda,K2-118 b,Scarlet,1557440915
+Echinodermata,K2-119 b,Desert,1602903578
+Chordata,K2-119 b,Swamp,651428938
+Bryophyta,K2-12 b,Marshland,1523293445
+Pteridophyta,K2-12 b,Tundra,84999660
+Angiospermae,K2-121 b,Tropical,1728294671
+Porifera,K2-121 b,Alpine,1282974783
+Cnidaria,K2-122 b,Nemoral,603750353
+Platyhelminthes,K2-122 b,Temperate,11816117
+Nematoda,K2-123 b,Boreal,1365491154
+Annelida,K2-123 b,Scarlet,1809020552
+Mollusca,K2-124 b,Desert,903105869
+Arthropoda,K2-124 b,Swamp,297308535
+Echinodermata,K2-125 b,Marshland,15705229
+Chordata,K2-125 b,Tundra,313367260
+Bryophyta,K2-126 b,Tropical,2119563730
+Pteridophyta,K2-126 b,Alpine,284796571
+Angiospermae,K2-127 b,Nemoral,321301392
+Porifera,K2-127 b,Temperate,1309040602
+Cnidaria,K2-128 b,Boreal,979685002
+Platyhelminthes,K2-128 b,Scarlet,1107874156
+Nematoda,K2-129 b,Desert,1420869406
+Annelida,K2-129 b,Swamp,486676699
+Mollusca,K2-13 b,Marshland,1005979150
+Arthropoda,K2-13 b,Tundra,2031796352
+Echinodermata,K2-130 b,Tropical,70996337
+Chordata,K2-130 b,Alpine,144405406
+Bryophyta,K2-131 b,Nemoral,1741334053
+Pteridophyta,K2-131 b,Temperate,432190149
+Angiospermae,K2-132 b,Boreal,334266010
+Porifera,K2-132 b,Scarlet,1503624246
+Cnidaria,K2-133 b,Desert,1930252343
+Platyhelminthes,K2-133 b,Swamp,2009227808
+Nematoda,K2-133 c,Marshland,403927800
+Annelida,K2-133 c,Tundra,323096426
+Mollusca,K2-133 d,Tropical,1679385194
+Arthropoda,K2-133 d,Alpine,48595499
+Echinodermata,K2-133 e,Nemoral,2144701633
+Chordata,K2-133 e,Temperate,222592564
+Bryophyta,K2-136 b,Boreal,377587014
+Pteridophyta,K2-136 b,Scarlet,161548621
+Angiospermae,K2-136 c,Desert,698861262
+Porifera,K2-136 c,Swamp,1667408129
+Cnidaria,K2-136 d,Marshland,1003596393
+Platyhelminthes,K2-136 d,Tundra,1924185829
+Nematoda,K2-137 b,Tropical,1657013468
+Annelida,K2-137 b,Alpine,18886283
+Mollusca,K2-138 b,Nemoral,674283246
+Arthropoda,K2-138 b,Temperate,1125356903
+Echinodermata,K2-138 c,Boreal,379534329
+Chordata,K2-138 c,Scarlet,1431347744
+Bryophyta,K2-138 d,Desert,1007567384
+Pteridophyta,K2-138 d,Swamp,1510042864
+Angiospermae,K2-138 e,Marshland,29049658
+Porifera,K2-138 e,Tundra,1909277385
+Cnidaria,K2-138 f,Tropical,716343827
+Platyhelminthes,K2-138 f,Alpine,1391662469
+Nematoda,K2-138 g,Nemoral,632743603
+Annelida,K2-138 g,Temperate,2031570005
+Mollusca,K2-139 b,Boreal,919944218
+Arthropoda,K2-139 b,Scarlet,1542825088
+Echinodermata,K2-14 b,Desert,1079201713
+Chordata,K2-14 b,Swamp,7098835
+Bryophyta,K2-140 b,Marshland,1651160441
+Pteridophyta,K2-140 b,Tundra,1939429350
+Angiospermae,K2-141 b,Tropical,1047124540
+Porifera,K2-141 b,Alpine,399034597
+Cnidaria,K2-141 c,Nemoral,276883996
+Platyhelminthes,K2-141 c,Temperate,1394215549
+Nematoda,K2-146 b,Boreal,663849521
+Annelida,K2-146 b,Scarlet,816844534
+Mollusca,K2-146 c,Desert,1997353637
+Arthropoda,K2-146 c,Swamp,51018233
+Echinodermata,K2-147 b,Marshland,1715813575
+Chordata,K2-147 b,Tundra,686599649
+Bryophyta,K2-148 b,Tropical,342940466
+Pteridophyta,K2-148 b,Alpine,852044738
+Angiospermae,K2-148 c,Nemoral,506432498
+Porifera,K2-148 c,Temperate,177875354
+Cnidaria,K2-148 d,Boreal,1871154958
+Platyhelminthes,K2-148 d,Scarlet,2128579243
+Nematoda,K2-149 b,Desert,431420736
+Annelida,K2-149 b,Swamp,562384010
+Mollusca,K2-15 b,Marshland,1570578783
+Arthropoda,K2-15 b,Tundra,447133115
+Echinodermata,K2-150 b,Tropical,2084649696
+Chordata,K2-150 b,Alpine,11708034
+Bryophyta,K2-151 b,Nemoral,2022581553
+Pteridophyta,K2-151 b,Temperate,88424592
+Angiospermae,K2-152 b,Boreal,28364926
+Porifera,K2-152 b,Scarlet,1922773935
+Cnidaria,K2-153 b,Desert,912961328
+Platyhelminthes,K2-153 b,Swamp,783729139
+Nematoda,K2-154 b,Marshland,945677102
+Annelida,K2-154 b,Tundra,919655747
+Mollusca,K2-154 c,Tropical,1552857461
+Arthropoda,K2-154 c,Alpine,1176115826
+Echinodermata,K2-155 b,Nemoral,2142406248
+Chordata,K2-155 b,Temperate,956964760
+Bryophyta,K2-155 c,Boreal,1926735380
+Pteridophyta,K2-155 c,Scarlet,2019582551
+Angiospermae,K2-155 d,Desert,1769182079
+Porifera,K2-155 d,Swamp,1040852318
+Cnidaria,K2-156 b,Marshland,1855595460
+Platyhelminthes,K2-156 b,Tundra,1730948704
+Nematoda,K2-157 b,Tropical,276935553
+Annelida,K2-157 b,Alpine,1507784925
+Mollusca,K2-158 b,Nemoral,1259497458
+Arthropoda,K2-158 b,Temperate,1434430185
+Echinodermata,K2-158 c,Boreal,895028167
+Chordata,K2-158 c,Scarlet,1519995080
+Bryophyta,K2-159 b,Desert,907642791
+Pteridophyta,K2-159 b,Swamp,142508907
+Angiospermae,K2-16 b,Marshland,2077984478
+Porifera,K2-16 b,Tundra,1284516580
+Cnidaria,K2-16 c,Tropical,2002976493
+Platyhelminthes,K2-16 c,Alpine,769629712
+Nematoda,K2-160 b,Nemoral,325086142
+Annelida,K2-160 b,Temperate,1420041492
+Mollusca,K2-161 b,Boreal,523318456
+Arthropoda,K2-161 b,Scarlet,819110526
+Echinodermata,K2-162 b,Desert,264647654
+Chordata,K2-162 b,Swamp,964072147
+Bryophyta,K2-163 b,Marshland,633299779
+Pteridophyta,K2-163 b,Tundra,865189302
+Angiospermae,K2-164 b,Tropical,1455627037
+Porifera,K2-164 b,Alpine,39893710
+Cnidaria,K2-165 b,Nemoral,1548027279
+Platyhelminthes,K2-165 b,Temperate,408534710
+Nematoda,K2-165 c,Boreal,1847436331
+Annelida,K2-165 c,Scarlet,990946155
+Mollusca,K2-165 d,Desert,603068930
+Arthropoda,K2-165 d,Swamp,1209693826
+Echinodermata,K2-166 b,Marshland,892537521
+Chordata,K2-166 b,Tundra,904240101
+Bryophyta,K2-167 b,Tropical,1100904699
+Pteridophyta,K2-167 b,Alpine,1828043684
+Angiospermae,K2-168 b,Nemoral,794147234
+Porifera,K2-168 b,Temperate,321070553
+Cnidaria,K2-169 b,Boreal,1802594709
+Platyhelminthes,K2-169 b,Scarlet,1663022473
+Nematoda,K2-17 b,Desert,838351845
+Annelida,K2-17 b,Swamp,831241982
+Mollusca,K2-170 b,Marshland,2057339385
+Arthropoda,K2-170 b,Tundra,1170595202
+Echinodermata,K2-170 c,Tropical,1464031136
+Chordata,K2-170 c,Alpine,545694776
+Bryophyta,K2-171 b,Nemoral,1086164205
+Pteridophyta,K2-171 b,Temperate,343542578
+Angiospermae,K2-172 b,Boreal,569457449
+Porifera,K2-172 b,Scarlet,358793367
+Cnidaria,K2-172 c,Desert,1988260215
+Platyhelminthes,K2-172 c,Swamp,1698861871
+Nematoda,K2-173 b,Marshland,2092190894
+Annelida,K2-173 b,Tundra,499306089
+Mollusca,K2-174 b,Tropical,713956864
+Arthropoda,K2-174 b,Alpine,1254994538
+Echinodermata,K2-175 b,Nemoral,532435108
+Chordata,K2-175 b,Temperate,956950317
+Bryophyta,K2-176 b,Boreal,244935464
+Pteridophyta,K2-176 b,Scarlet,1640120624
+Angiospermae,K2-177 b,Desert,996380310
+Porifera,K2-177 b,Swamp,1325150403
+Cnidaria,K2-178 b,Marshland,1517581812
+Platyhelminthes,K2-178 b,Tundra,1286442610
+Nematoda,K2-179 b,Tropical,158006863
+Annelida,K2-179 b,Alpine,1816169541
+Mollusca,K2-18 b,Nemoral,234585636
+Arthropoda,K2-18 b,Temperate,1507361233
+Echinodermata,K2-18 c,Boreal,1302563863
+Chordata,K2-18 c,Scarlet,135604382
+Bryophyta,K2-180 b,Desert,846375840
+Pteridophyta,K2-180 b,Swamp,286584682
+Angiospermae,K2-181 b,Marshland,1614664625
+Porifera,K2-181 b,Tundra,551805268
+Cnidaria,K2-182 b,Tropical,1987064230
+Platyhelminthes,K2-182 b,Alpine,1350311707
+Nematoda,K2-183 b,Nemoral,1420445340
+Annelida,K2-183 b,Temperate,880218164
+Mollusca,K2-183 c,Boreal,727825820
+Arthropoda,K2-183 c,Scarlet,795597383
+Echinodermata,K2-183 d,Desert,679728780
+Chordata,K2-183 d,Swamp,1874580478
+Bryophyta,K2-184 b,Marshland,368019250
+Pteridophyta,K2-184 b,Tundra,212449138
+Angiospermae,K2-185 b,Tropical,311063497
+Porifera,K2-185 b,Alpine,1381506375
+Cnidaria,K2-185 c,Nemoral,1771948155
+Platyhelminthes,K2-185 c,Temperate,699449758
+Nematoda,K2-186 b,Boreal,1761237302
+Annelida,K2-186 b,Scarlet,1291346344
+Mollusca,K2-187 b,Desert,228029911
+Arthropoda,K2-187 b,Swamp,365595647
+Echinodermata,K2-187 c,Marshland,1225161295
+Chordata,K2-187 c,Tundra,444376459
+Bryophyta,K2-187 d,Tropical,977433004
+Pteridophyta,K2-187 d,Alpine,506370825
+Angiospermae,K2-187 e,Nemoral,511416555
+Porifera,K2-187 e,Temperate,1808834895
+Cnidaria,K2-188 b,Boreal,2105410092
+Platyhelminthes,K2-188 b,Scarlet,1076843952
+Nematoda,K2-188 c,Desert,990339321
+Annelida,K2-188 c,Swamp,1290090443
+Mollusca,K2-189 b,Marshland,1886788276
+Arthropoda,K2-189 b,Tundra,1000361288
+Echinodermata,K2-189 c,Tropical,2088568026
+Chordata,K2-189 c,Alpine,1598052709
+Bryophyta,K2-19 b,Nemoral,61327848
+Pteridophyta,K2-19 b,Temperate,179469154
+Angiospermae,K2-19 c,Boreal,2047621041
+Porifera,K2-19 c,Scarlet,2084226902
+Cnidaria,K2-19 d,Desert,1769060400
+Platyhelminthes,K2-19 d,Swamp,739356287
+Nematoda,K2-190 b,Marshland,2092173078
+Annelida,K2-190 b,Tundra,327596679
+Mollusca,K2-190 c,Tropical,1876613579
+Arthropoda,K2-190 c,Alpine,9511349
+Echinodermata,K2-191 b,Nemoral,1873666303
+Chordata,K2-191 b,Temperate,844532400
+Bryophyta,K2-192 b,Boreal,523904575
+Pteridophyta,K2-192 b,Scarlet,1156518303
+Angiospermae,K2-193 b,Desert,161834977
+Porifera,K2-193 b,Swamp,2050124891
+Cnidaria,K2-194 b,Marshland,1205457775
+Platyhelminthes,K2-194 b,Tundra,1773020819
+Nematoda,K2-195 b,Tropical,1133167289
+Annelida,K2-195 b,Alpine,1445539404
+Mollusca,K2-195 c,Nemoral,1050250085
+Arthropoda,K2-195 c,Temperate,875537421
+Echinodermata,K2-196 b,Boreal,266314666
+Chordata,K2-196 b,Scarlet,71783631
+Bryophyta,K2-197 b,Desert,1851332012
+Pteridophyta,K2-197 b,Swamp,1204055624
+Angiospermae,K2-198 b,Marshland,1343423963
+Porifera,K2-198 b,Tundra,421154077
+Cnidaria,K2-198 c,Tropical,634350052
+Platyhelminthes,K2-198 c,Alpine,1334181131
+Nematoda,K2-198 d,Nemoral,413419955
+Annelida,K2-198 d,Temperate,1799038399
+Mollusca,K2-199 b,Boreal,1690786115
+Arthropoda,K2-199 b,Scarlet,1495856196
+Echinodermata,K2-199 c,Desert,1889852942
+Chordata,K2-199 c,Swamp,1281378574
+Bryophyta,K2-200 b,Marshland,556992548
+Pteridophyta,K2-200 b,Tundra,1967193685
+Angiospermae,K2-201 b,Tropical,1304501341
+Porifera,K2-201 b,Alpine,1075550385
+Cnidaria,K2-201 c,Nemoral,1980519556
+Platyhelminthes,K2-201 c,Temperate,1379780354
+Nematoda,K2-2016-BLG-0005L b,Boreal,306595185
+Annelida,K2-2016-BLG-0005L b,Scarlet,637189162
+Mollusca,K2-202 b,Desert,370703408
+Arthropoda,K2-202 b,Swamp,856466443
