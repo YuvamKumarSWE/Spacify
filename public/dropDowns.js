@@ -52,31 +52,52 @@ document.addEventListener('DOMContentLoaded', function() {
 
 document.addEventListener('DOMContentLoaded', function() {
     const tableSelector = document.getElementById('updateDropDown');
-    /*
-    const universeSelect = document.getElementById('universeInsertOption');        
-    const galaxySelect = document.getElementById('galaxyInsertOption');
+    
+    const planetarySystemSelect = document.getElementById('updatePlanetarySystemSelect');        
         
         tableSelector.addEventListener('change', function() {
            
-            universeSelect.classList.remove('active');
-            galaxySelect.classList.remove('active');
+            planetarySystemSelect.classList.remove('active');
             
           
             const selectedOption = tableSelector.value;
 
             switch (selectedOption) {
-                case 'universe':
-                    universeSelect.classList.add('active');
-                    break;
-                case 'galaxy':
-                    galaxySelect.classList.add('active');
+                case 'planetarySystem':
+                    planetarySystemSelect.classList.add('active');
+                    document.getElementById('updatePlanetarySystem').style.display = 'none';
+                    document.getElementById('updatePlanetarySystemSelect').style.display = 'block';
                     break;
                 
             }
 
         });
-         */
+         
 });
+
+document.addEventListener('DOMContentLoaded', function() {
+    const tableSelector = document.getElementById('selectDropDown');
+    
+    const biomeSelect = document.getElementById('selectBiome');        
+        
+        tableSelector.addEventListener('change', function() {
+           
+            biomeSelect.classList.remove('active');
+            
+          
+            const selectedOption = tableSelector.value;
+
+            switch (selectedOption) {
+                case 'biome':
+                    biomeSelect.classList.add('active');
+                    break;
+                
+            }
+
+        });
+         
+});
+
 
 
 document.addEventListener('DOMContentLoaded', function() {

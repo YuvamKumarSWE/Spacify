@@ -11,14 +11,26 @@
     <div class="page">
         <div class="sidebar">
             <div class="sidebarTitle">
-                <h2>Usagi is King</h2>
+                <h2>Spacify</h2>
+                <span id="dbStatus" class="dbStatus"> </span>
+                <img id="loadingGif" class="loading-gif" src="loading_100px.gif" alt="Loading...">
+                
             </div>
             <nav class="navMenu">
                 <ul>
                     <li><a href="#" class="navLink active" data-page="i">Insert</a></li>
                     <li><a href="#" class="navLink" data-page="d">Delete</a></li>
                     <li><a href="#" class="navLink" data-page="u">Update</a></li>
-                    <li><a href="#" class="navLink" data-page="r">Read</a></li>
+                    <li><a href="#" class="navLink" data-page="s">Selection</a></li>
+                    <li><a href="#" class="navLink" data-page="p">Projection</a></li>
+                    <li><a href="#" class="navLink" data-page="j">Join</a></li>
+                    <li><a href="#" class="navLink" data-page="ag">Aggregation with Group By</a></li>
+                    <li><a href="#" class="navLink" data-page="ah">Aggregation with Having</a></li>
+                    <li><a href="#" class="navLink" data-page="n">Nested Aggregation</a></li>
+                    <li><a href="#" class="navLink" data-page="dq">Division</a></li>
+                    <li><a href="#" class="navLink" data-page="dz">The Big Bang</a></li>
+                    
+                    
 
                 </ul>
             </nav>
@@ -26,11 +38,6 @@
 
 
         <div class="mainPage">
-            <h1>Database Connection Status: 
-                <span id="dbStatus"> </span>
-                <img id="loadingGif" class="loading-gif" src="loading_100px.gif" alt="Loading...">
-            </h1>
-
             <!--INSERT PAGE-->
 
             <div class="content-page active" id="insertPage">
@@ -38,7 +45,7 @@
                 <div class="page-container">
                     <h3>Choose the table:</h3>
                     <select id="insertDropDown" class="dropDown">
-                        <option value="">SELECT IT 😈</option>
+                        <option value="">SELECT TABLE</option>
                         <option value="universe">Universe</option>
                         <option value="galaxy">Galaxy</option>
                     </select>
@@ -49,11 +56,11 @@
                     <div class="container">
                         <div class="form-container">
                         <form id="insertUniverse">
-                            Name: <input type="text" id="insertName" placeholder="Enter Name" required> <br><br>
-                            Age: <input type="number" id="insertAge" placeholder="Enter Age" required> <br><br>
-                            Expansionary Rate: <input type="number" id="insertRate" placeholder="Enter Rate" required> <br><br>
+                            Name<strong>*</strong>: <input type="text" id="insertName" placeholder="Enter Name" required>
+                            Age (Years): <input type="number" id="insertAge" placeholder="Enter Age"> 
+                            Expansionary Rate (Light Years): <input type="number" id="insertRate" placeholder="Enter Rate"> 
             
-                            <button type="submit"> insert </button> <br>
+                            <button type="submit"> Insert </button> <br>
                         </form>
                         <div id="insertResultMsg"></div>
                         </div>
@@ -63,8 +70,8 @@
                                     <tr>
                                         <!--Table head, need to be adjusted accordingly to align with your own.-->
                                         <th>Name</th>
-                                        <th>Age</th>
-                                        <th>Rate</th>
+                                        <th>Age (Years)</th>
+                                        <th>Rate (Light Years)</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -80,20 +87,32 @@
                     <div class="container">
                         <div class="form-container">
                         <form id="insertGalaxy">
-                            Name: <input type="text" id="insertGalacticName" placeholder="Enter Name" required> <br><br>
-                            Constellation: <input type="text" id="insertConstellation" placeholder="Enter Constellation" required> <br><br>
-                            Type: <input type="text" id="insertGalacticType" placeholder="Enter Type" required> <br><br>
-                            Radius: <input type="number" id="insertGalacticRadius" placeholder="Enter Radius" required> <br><br>
-                            Star Count: <input type="text" id="insertGalacticCount" placeholder="Enter Starcount" required> <br><br> <!-- Will need to be a dropdown -->
-                            Central Object: <input type="text" id="insertGalacticObject" placeholder="Enter Age" required> <br><br> <!-- Will need to be a dropdown -->
-                            Distance From Earth: <input type="number" id="insertGalacticDistance" placeholder="Enter Rate" required> <br><br>
-                            Universe:     
-                            <select id="insertGalacticUniverse", class="dropDown">
-                                <option value="">Select a Universe 😈</option>
+                            Name<strong>*</strong>: <input type="text" id="insertGalacticName" placeholder="Enter Name" required>
+                            Constellation: <input type="text" id="insertConstellation" placeholder="Enter Constellation"> 
+                            Type: <input type="text" id="insertGalacticType" placeholder="Enter Type">
+                            Radius (AUs): <input type="number" id="insertGalacticRadius" placeholder="Enter Radius"> 
+                            Star Count: 
+                            <select id="insertGalacticCount", class="dropDown", placeholder="Enter Starcount">
+                                <option value="Sparse">Sparse</option>
+                                <option value="Moderate">Moderate</option>
+                                <option value="Dense">Dense</option>
+                            </select> 
+                            <!---<input type="text" id="insertGalacticCount" placeholder="Enter Starcount" required> <br><br> <!-- Will need to be a dropdown -->
+                            Central Object:                            
+                            <select id="insertGalacticObject", class="dropDown", placeholder="Enter Starcount">
+                                <option value="No Known Object">No Known Object</option>
+                                <option value="Blackhole">Blackhole</option>
+                                <option value="Super Massive Blackhole">Super Massive Blackhole</option>
+                            </select> 
+                            <!--<input type="text" id="insertGalacticObject" placeholder="Enter Age"> <br><br> <!-- Will need to be a dropdown -->
+                            Distance From Earth (AUs): <input type="number" id="insertGalacticDistance" placeholder="Enter Rate">
+                            Universe<strong>*</strong>:     
+                            <select id="insertGalacticUniverse", class="dropDown" required>
+                                <option value="">Select a Universe</option>
                             </select>
                             <!--<input type="text" id="insertGalacticUniverse" placeholder="Enter Universe" required> <br><br> <!-- Will need to be a dropdown -->
             
-                            <button type="submit"> insert </button> <br>
+                            <button type="submit"> Insert </button> <br>
                         </form>
                         <div id="insertResultMsg"></div>
                         </div>
@@ -106,10 +125,10 @@
                                         <th>Universe</th> 
                                         <th>Constellation</th>
                                         <th>Type</th>
-                                        <th>Radius</th>
+                                        <th>Radius (AUs)</th>
                                         <th>Star Count</th>
                                         <th>Central Object</th>
-                                        <th>Distance from Earth</th>
+                                        <th>Distance from Earth (AUs)</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -129,7 +148,7 @@
                 <div class="page-container">
                     <h3>Choose the table:</h3>
                     <select id="deleteDropDown" class="dropDown">
-                        <option value="">SELECT IT 😈</option>
+                        <option value="">SELECT TABLE</option>
                         <option value="star">Star</option>
                         
                     </select>
@@ -160,7 +179,7 @@
                                         <!--Table head, need to be adjusted accordingly to align with your own.-->
                                         <th>SolarName </th>
                                         <th>SpectralType</th>
-                                        <th>Radius</th>
+                                        <th>Radius (# Earth Suns)</th>
                                         <th>ElementalComposition</th>
                                     </tr>
                                 </thead>
@@ -173,20 +192,68 @@
 
             </div>
 
-
             <div class="content-page" id="updatePage">
                 <h2>Update Data</h2>
                 <div class="page-container">
                     <h3>Choose the table:</h3>
                     <select id="updateDropDown" class="dropDown">
-                        <option value="">SELECT IT 😈</option>
-                        <option value="universe">Universe</option>
-                        <option value="galaxy">Galaxy</option>
+                        <option value="">SELECT TABLE</option>
+                        <option value="planetarySystem">Planetary System</option>
                     </select>
                 </div>
 
-                <!--PUT THE UPDATE STUFF HERE-->
+                <div id="updatePlanetarySystemSelect" class="dropDownOption">
+                    <h3>Choose which Planetary system you want to update </h3>
+                    <div class="form-container">
+                        <form id="updatePlanetarySystemSelectForm" >
+                            Host name<strong>*</strong>:
+                            <select id="selectHostName" class="dropDown" required>
+                                <option value="">Select a Planetary System</option>
+                            </select> 
+                            <button id="confirmSelection" type="button" class="btn-confirm">Confirm</button>
+                        </form>
+                        <div class="selectResultMsg"></div>
+                    </div>           
+                </div>
 
+            
+                <div id="updatePlanetarySystem" class="dropDownOption">
+                    <h3>Select values to update</h3>
+                    <div id="planetarySystemInfo" class="selected-info"></div>
+                    <div class="form-container">
+                        <form id="updatePlanetarySystemForm">
+                            <!-- Lunar name: <input type="text" id="insertLunarName" placeholder="Enter lunar name"> -->
+                            Number of Stars: <input type="number" id="insertNumStars" placeholder="Enter # of stars"> 
+                            Number of Planets: <input type="number" id="insertNumPlanets" placeholder="Enter # of planets"> 
+                            Radius: <input type="number" id="insertRadius" placeholder="Enter radius" step="any"> 
+                            Galaxy Host: 
+                            <select id="insertGalaxyHost" class="dropDown">
+                                <option value="">Select a Host</option>
+                            </select>
+            
+                            <div class="button-group">
+                                <button type="submit">Update</button>
+                                <button id="backToSelection" type="button" class="btn-back">Back</button>
+                            </div> <br>
+                        </form>
+                        <div id="updateResultMsg" class="message"></div>
+                    </div>
+                </div>
+                <div>
+                    <table id="planetarySystem" border="1">
+                        <thead>
+                            <tr>
+                                <th>Host name</th>
+                                <th># of Stars</th>
+                                <th># of Planets</th>
+                                <th>Radius</th>
+                                <th>Galaxy Host</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
             </div>
 
 
@@ -195,7 +262,7 @@
                 <div class="page-container">
                     <h3>Choose the table:</h3>
                     <select id="readDropDown" class="dropDown">
-                        <option value="">SELECT IT 😈</option>
+                        <option value="">SELECT TABLE</option>
                         <option value="universe">Universe</option>
                         <option value="galaxy">Galaxy</option>
                     </select>
@@ -205,17 +272,301 @@
 
             </div>
 
+            <div class="content-page" id="selectionPage">
+                <h2>Select Biomes</h2>
+                
+                <div class="page-container">
+                    <h3>Choose the table:</h3>
+                    <select id="selectDropDown" class="dropDown">
+                        <option value="">SELECT TABLE</option>
+                        <option value="biome">Biome</option>
+                    </select>
+                </div>
 
-            <h2>Reset Universe</h2>
-            <p>If you wish to reset the table press on the reset button. If this is the first time you're running this page, you MUST use reset</p>
-            <button id="resetUniverse"> Universe </button> <button id="resetAstronomical"> Astronomical </button> <button id="resetGalaxy"> Galaxy </button> <br>
-            <!-- A placeholder to display messages related to the reset operation. -->
-            <div id="resetResultMsg"></div>
+                <div id="selectBiome" class="dropDownOption">
+                    <h3>Select the attributes you want to filter on</h3>
+                    <div class="form-container">
+                        <form id="selectBiomeForm">
+                            <div id="searchCriteriaContainer">
+                                <div class="search-criteria-row">
+                                    <select id = "biomeAttribute" class="dropDown" required>
+                                        <option value="BiomeType">Biome Type</option>
+                                        <option value="FoliageDensity">Foliage Density</option>
+                                        <option value="AverageTemperature">Average Temperature (Degrees C)</option>
+                                    </select>
+                                    
+                                    <select id = "biomeOperator" class="dropDown" required>
+                                        <option value="=">=</option>
+                                        <option value="<">></option>
+                                        <option value=">">></option>
+                                        <option value="<="><=</option>
+                                        <option value=">=">>=</option>
+                                        <option value="LIKE">"LIKE (string only)"</option>
+                                    </select>
+                                    
+                                    <input type="text" class="search-value" placeholder="Enter value">
+                                    
+                                    <button type="button" class="remove-criteria-btn">Remove</button>
+                                </div>
+                            </div>
 
-            <h2>Count the Tuples in Universe</h2>
-            <button id="countUniverse"> count </button> <br><br>
-            <!-- A placeholder to display the count result. -->
-            <div id="countResultMsg"></div> <br>
+
+
+                            <div class="search-criteria-combination">                                
+                                <button type="button" id="addCriteriaButton">Add a criterion</button>
+                                <button type="button" id="goButton">Confirm</button>
+                            </div>
+                        </form>
+                        <div class="selectResultMsg"></div>
+                    </div>           
+                </div>
+
+                <div>
+                    <table id="biome" border="1">
+                        <thead>
+                            <tr>
+                                <th>Biome type</th>
+                                <th>Foliage Density</th>
+                                <th>Average temperature (Degrees C)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="results-container">
+                    <table id="biomeResults" border="1">
+                        <thead>
+                            <tr>
+                                <th>Biome type</th>
+                                <th>Foliage Density</th>
+                                <th>Average temperature</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+
+            <div class="content-page" id="projectionPage">
+                <h2>Project Data</h2>
+                
+                <!--PUT THE  STUFF HERE-->
+                <h2>Projection in Kingdom</h2>
+                <div class="container">
+                    <div class="form-container">
+                        <form id="projectionKingdom">
+                            <fieldset class="pSelector">
+                                <legend>Select Columns to Fetch:</legend>
+                                <input type="checkbox" id="chkTaxonomy" checked> Taxonomy <br>
+                                <input type="checkbox" id="chkGenus" checked> Colloquial Genus <br>
+                                <input type="checkbox" id="chkTrophic" checked> Trophic Level <br>
+                                <input type="checkbox" id="chkCount" checked> Species Count <br>
+                                <input type="checkbox" id="chkReproduction" checked> Reproduction Type <br>
+                                <input type="checkbox" id="chkLifespan" checked> Lifespan <br>
+                            </fieldset>
+                            <button type="submit">Fetch Projection</button> <br>
+                        </form>
+                        <div id="projectionResultMsg"></div>
+                    </div>
+                    <div>
+                        <table id="kingdomProjection" border="1">
+                            <thead>
+                                <tr id="projectionTableHead"></tr> 
+                            </thead>
+                            <tbody id="projectionTableBody">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="content-page" id="joinPage">
+                <h2>Join Data</h2>
+
+                <h4>Joins the CelestialBody and PlanetarySystem tables to give us all the Celestial Bodies with a certain system host from PlanetarySystem</h4>
+                
+                <div class="container">
+                    <div class="form-container">
+                    <form id="joinCelestial">
+                        System Host:
+                        <select id="insertCelestialBodyNames", class="dropDown" required>
+                            <option value="">Select a System Host</option>
+                        </select>
+        
+                        <button type="submit">Join</button> <br>
+                    </form>
+                    <div id="joinResultMsg"></div>
+                    </div>
+                    <div>
+                        <table id="joinCelestialBody" border="1">
+                            <thead>
+                                <tr>
+                                    <th>Celestial Name</th>
+                                    <th>Discovery Year</th> 
+                                    <th>System Host</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                
+
+            </div>
+
+            <div class="content-page" id="aggregationGroupByPage">
+                <h2>Aggregation Group By Page</h2>
+                
+                <h3>Count the Tuples in Universe</h3>
+                <form id="count">
+                    <select id="countUniverse" class="dropDown" required>
+                        <option value="">Select an entity</option>
+                        <option value="UNIVERSE">Unvierses</option>
+                        <option value="Galaxy">Galaxies</option>
+                        <option value="PlanetarySystem">Planetary Systems</option>
+                        <option value="Quasar">Quasars</option>
+                        <option value="Star">Stars</option>
+                        <option value="Exoplanet">Exoplanets</option>
+                        <option value="Moon">Moons</option>
+                        <option value="Biome">Biomes</option>
+                        <option value="Kingdom">Kingdom</option>
+                        <option value="Ecosystem">Ecosystems</option>
+
+                    </select>
+                    <button type="submit"> Count </button>
+                 </form>
+                <br>
+                <!-- A placeholder to display the count result. -->
+                <div id="countResultMsg"></div> <br>
+                
+
+            </div>
+
+            <div class="content-page" id="aggregationHavingPage">
+                <h2>Aggregation with Having</h2>
+                <h3>Planets having at least a certain number of moons orbiting it.</h3>
+
+                <div class="container">
+                    <div class="form-container">
+                        <form id="havingMoon">
+                            Input the Number of moons: 
+                            <input type="number" id="havingMoonField" placeholder="Enter Number" required>
+             
+                             <button type="submit"> Search </button> <br>
+                         </form>
+                    <div id="insertResultMsg"></div>
+                    </div>
+                    <div>
+                        <table id="moons" border="1">
+                            <thead>
+                                <tr>
+                                    <!--Table head, need to be adjusted accordingly to align with your own.-->
+                                    <th>Planet Name</th>
+                                    <th>Number of Moons</th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                    
+                
+
+            </div>
+
+           
+            <div class="content-page" id="nestedAggregationPage">
+                <h2>Nested Aggregation</h2>
+                <h3>For a given biome, the Kingdom taxonomies that have an above average number of alleles relative to all taxonomies.</h3>
+                    
+                <!--PUT THE  STUFF HERE-->
+                <div class="container">
+                    <div class="form-container">
+                        <form id="nestedBiome">
+                            Select a Biome:
+                            <select id="nestedBiomeType", class="dropDown" required>
+                                <option value="">Select a Biome</option>
+                            </select>
+             
+                             <button type="submit"> Search </button> <br>
+                         </form>
+                    <div id="insertAvgAlleles"></div>
+                    </div>
+                    <div>
+                        <table id="species" border="1">
+                            <thead>
+                                <tr>
+                                    <!--Table head, need to be adjusted accordingly to align with your own.-->
+                                    <th>Taxonomy</th>
+                                    <th>Found on Number of Distinct Planets</th>
+                                    <th>Min. Allele #</th>
+                                    <th>Avg. Allele #</th>
+                                    <th>Max. Allele #</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                
+
+            </div>
+
+            <div class="content-page" id="divisionPage">
+                <h2>Division</h2>
+                
+                <h3>All planetary systems which contain exoplanets, but none of those exoplanets have ecosystems or moons.</h3>
+                <!--PUT THE  STUFF HERE-->
+                <button id="divide">Divide!</button>
+                <br><br>
+
+                <table id="dividePlanetarySystem" border="1">
+                    <thead>
+                        <tr>
+                            <!--Table head, need to be adjusted accordingly to align with your own.-->
+                            <th>Name</th>
+                            <th>Star Count </th> 
+                            <th>Planet Count</th>
+                            <th>Radius (AUs)</th>
+                            <th>Host Galaxy</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+                
+
+            </div>
+
+
+            <div class="content-page" id="dangerZonePage">
+                
+                <h2>💥The Big Bang💥</h2>
+                <p>Press these buttons if you wish to drop and recreate ALL tables, as well as run out initial insertion script.</p>
+                <p><strong>This is a destructive action!</strong></p>
+                <!-- <button id="resetUniverse"> Universe </button>
+                <button id="resetAstronomical"> Astronomical </button> 
+                <button id="resetGalaxy"> Galaxy </button> -->
+                <button id="resetTables"> Reset ALL Tables </button> 
+                <button id="insertion"> Insert Demo Data </button><br>
+                <!-- A placeholder to display messages related to the reset operation. -->
+                <div id="resetResultMsg"></div>
+                
+
+            </div>
+
+
+
 
 
         </div>

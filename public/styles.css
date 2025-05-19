@@ -2,13 +2,25 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     line-height: 1.6;
-    background-color: #bbbbbb7a;
-    color: #313131;
+    
+    background-image: url('bg.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #ded7d7;
 }
 
 hr {
-    border-top: 2px solid rgb(44, 51, 62);
+    border-top: 2px solid rgb(42, 49, 62);
     margin: auto;
+}
+
+html, body {
+    height: 100%; 
+    margin: 0; 
+    padding: 0; 
+    font-size: large;
 }
 
 
@@ -17,18 +29,18 @@ hr {
 table {
     width: 100%;
     border-collapse: collapse;
-    background-color: #fff;
+    background-color: #43155258;
     box-shadow: 0 1px 12px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
 }
 
 th, td {
     padding: 12px 15px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #b6adad9d;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #451556ac;
     font-weight: bold;
 }
 
@@ -37,15 +49,16 @@ tr:last-child td {
 }
 
 tr:hover {
-    background-color: #f5f5f5;
+    background-color:  #09052a;
     cursor: pointer;
 }
 
 button {
-    background-color: rgb(32, 107, 227);
+    background-color: rgba(231, 231, 232, 0.28);
     color: #fff;
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: bold;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -54,7 +67,8 @@ button {
 }
 
 button:hover {
-    background-color: rgb(22, 87, 207);
+    background-color:rgba(0, 0, 0, 0.739);
+
 }
 
 button:active {
@@ -63,19 +77,29 @@ button:active {
 
 /* INPUT STYLES */
 input, .dropDown {
-    width: 100%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
     padding: 10px 15px;
     font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background-color: #fff;
-    color: #333;
+    
+    border-radius: 10px;
+    background-color: #ffffff9c;
+    color: black;
+    font-weight: bold;
     box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
     margin-bottom: 10px;
+    gap: 2px;
+}
+form{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
 }
 
 input::placeholder {
-    color: #aaa;
+    color: #363434f6;
+    font-weight: normal;
 }
 
 /* OTHER STYLES */
@@ -93,14 +117,28 @@ select{
 }
 
 .container {
-    display: flex;
+    display: inline-block;
 }
 .form-container {
-    margin-right: 200px;
+    /* margin-right: 100px; */
     flex: 1;
+    margin-bottom: 25px;
 }
 
+.dropDown{
+    background-color: #ffffff9c;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 8px;
+    font-weight: bold;
+    
+
+    border: none;
+}
+
+
 .dropDownOption{
+    
     display: none;
 }
 .dropDownOption.active{
@@ -113,6 +151,10 @@ select{
 }
 .content-page.active{
     display: block;
+    background-color: #0000009f;
+    padding: 10px;
+    border: 2px solid transparent;
+    border-radius: 8px;
 }
 
 .mainPage{
@@ -128,22 +170,32 @@ select{
 
 .sidebar {
     width: 250px;
-    background-color: #1a1a2e;
-    color: #fff;
+    background-color: #0d0d19b1;
+    color: white;
     padding: 20px 0;
     position: fixed;
     height: 100vh;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    
 }
 
 .sidebarTitle {
-    padding: 0 20px 20px;
+    padding: 0px 10px 10px;
     border-bottom: 1px solid #2d2d42;
+
 }
 
 .sidebarTitle h2 {
     font-size: 24px;
-    color: #64dfdf;
+    color: #ffffff;
+    padding: 0;
+    margin-bottom: 0;
+    
+}
+.dbStatus{
+    font-size: 12px;
+    text-transform: uppercase;
+    
 }
 
 .navMenu ul {
@@ -157,14 +209,28 @@ select{
 
 .navLink {
     display: block;
-    padding: 15px 20px;
-    color: #e6e6e6;
+    padding: 15px 15px;
+    color: white;
     text-decoration: none;
     transition: all 0.3s ease;
     border-left: 4px solid transparent;
 }
 
 .navLink:hover, .navLink.active {
-    background-color: #2d2d42;
-    color: #64dfdf;
+    background-color: #2d2d42af;
+    color: #676097;
+}
+
+
+.pSelector{
+    max-width: 700px;
+    display: flex;
+}
+
+.search-criteria-combination{
+    margin-top: 7px;
+}
+.remove-criteria-btn{
+    margin-top: 4px;
+    margin-bottom: 8px;
 }

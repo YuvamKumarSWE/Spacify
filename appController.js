@@ -22,6 +22,14 @@ router.get('/universe', async (req, res) => {
     res.json({data: tableContent});
 });
 
+router.post("/project-kingdom", async (req, res) => {
+    const { columns } = req.body;
+    const projectionResult = await appService.fetchKingdomProjectionFromDb(columns);
+    res.json({ data: projectionResult });
+});
+
+
+
 
 router.post("/initiate-universe", async (req, res) => {
     const initiateResult = await appService.initiateUniverse();
@@ -96,7 +104,43 @@ router.post("/insert-galaxy", async (req, res) => {
     }
 });
 
-/* */
+/* division */
+
+router.get("/dividePlanetarySystem", async(req, res) => {
+    const tableContent = await appService.division();
+    res.json({data: tableContent});
+})
+
+/* Biome / Kingdom */
+
+router.search('/species', async (req, res) => {
+    //alert('WHAT');
+
+    const { biome } = req.body;
+    const tableContent = await appService.fetchSpeciesFromDb(biome);
+    res.json({data: tableContent});
+});
+
+router.get("/get-biomes", async (req, res) => {
+    const tableContent = await appService.fetchBiomeNameFromDb();
+    res.json({data: tableContent});
+});
+
+router.search('/get-alleles', async (req, res) => {
+    const { biome } = req.body;
+    const avgAlleles = await appService.getAvgAlleles(biome);
+    res.json({ data: avgAlleles });
+
+});
+
+/* MOON */
+router.search('/moonHaving', async (req, res) => {
+    //alert('WHAT');
+
+    const { number } = req.body;
+    const tableContent = await appService.fetchMoonFromDb(number);
+    res.json({data: tableContent});
+});
 
 router.post("/update-name-demotable", async (req, res) => {
     const { oldName, newName } = req.body;
@@ -108,8 +152,10 @@ router.post("/update-name-demotable", async (req, res) => {
     }
 });
 
-router.get('/count-universe', async (req, res) => {
-    const tableCount = await appService.countUniverse();
+router.post('/count-universe', async (req, res) => {
+    const { tableName } = req.body;
+
+    const tableCount = await appService.countUniverse(tableName);
     if (tableCount >= 0) {
         res.json({ 
             success: true,  
@@ -141,5 +187,95 @@ router.delete('/delete-star', async (req, res) => {
     }
 });
 
+router.get('/planetary-system', async (req, res) => {
+    const tableContent = await appService.fetchPlanetarySystemsFromDb();
+    res.json({ data: tableContent });
+});
+
+router.get('/get-planetary-system-names', async (req, res) => {
+    const planetarySystemNames = await appService.getPlanetarySystemNames();
+    res.json({ data: planetarySystemNames });
+});
+
+router.get('/get-planetary-system-data/:name', async (req, res) => {
+    const planetarySystemName = req.params.name;
+    const planetarySystemData = await appService.getPlanetarySystemData(planetarySystemName);
+    
+    if (planetarySystemData) {
+        res.json({ success: true, data: planetarySystemData });
+    } else {
+        res.status(404).json({ success: false, message: 'planetarySystem not found' });
+    }
+});
+
+router.post('/update-planetary-system', async (req, res) => {
+    const { hostName, numStars, numPlanets, radius, galaxyHost } = req.body;
+    const updateResult = await appService.updatePlanetarySystem(hostName, numStars, numPlanets, radius, galaxyHost);
+    if (updateResult) {
+        res.json({ success: true });
+    } else {
+        res.status(500).json({ success: false });
+    }
+});
+
+router.get('/get-galaxy-hosts', async (req, res) => {
+    const hosts = await appService.getGalaxyHosts();
+    res.json({ data: hosts });
+});
+
+router.get("/get-hostName", async (req, res) => {
+    const tableContent = await appService.fetchHostNameFromDb();
+    res.json({data: tableContent});
+});
+
+router.get('/biome', async (req, res) => {
+    const tableContent = await appService.fetchBiomeAllFromDb();
+    res.json({ data: tableContent });
+});
+
+router.post('/search-biomes', async (req, res) => {
+    const { criteria, operator } = req.body;
+        
+    if (!criteria || criteria.length === 0) {
+        return res.status(400).json({ 
+            success: false, 
+            message: 'afhjlkhequwfeoiwfhe'
+        });
+    }
+    
+    const biomes = await appService.selectBiomes(criteria, operator);
+    if (biomes) {
+        res.json({ 
+            success: true,
+            data: biomes 
+        });
+    } else {
+        res.json({ success: false }); //TODO CHANGE THIS
+    }
+});
+
+router.post('/join-celestial', async (req, res) => {
+    const {hostName} = req.body;
+    const tableContent = await appService.fetchJoinCelestialDb(hostName);
+    res.json({ success: tableContent.length > 0, data: tableContent });
+});
+
+router.post("/reset-tables", async (req, res) => {
+    const initiateResult = await appService.executeTableCreateSqlFile();
+    if (initiateResult) {
+        res.json({ success: true });
+    } else {
+        res.status(500).json({ success: false });
+    }
+});
+
+router.post("/insertion", async (req, res) => {
+    const initiateResult = await appService.executeInsertionSqlFile();
+    if (initiateResult) {
+        res.json({ success: true });
+    } else {
+        res.status(500).json({ success: false });
+    }
+});
 
 module.exports = router;

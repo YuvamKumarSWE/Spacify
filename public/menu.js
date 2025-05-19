@@ -27,9 +27,32 @@ document.addEventListener('DOMContentLoaded', function () {
                 case 'u':
                     pageToShow = 'updatePage';
                     break;
-                case 'r':
-                    pageToShow = 'readPage';
+                case 's':
+                    pageToShow = 'selectionPage';
                     break;
+                case 'p':
+                    pageToShow = 'projectionPage';
+                    break;
+                case 'j':
+                    pageToShow = 'joinPage';
+                    break;
+                case 'ag':
+                    pageToShow = 'aggregationGroupByPage';
+                    break;
+                case 'ah':
+                    pageToShow = 'aggregationHavingPage';
+                    break;
+                case 'n':
+                    pageToShow = 'nestedAggregationPage';
+                    break;
+                case 'dq':
+                    pageToShow = 'divisionPage';
+                    break;
+                case 'dz':
+                    pageToShow = 'dangerZonePage';
+                    break;
+                
+                
                 default:
                     pageToShow = 'insertPage';
             }
